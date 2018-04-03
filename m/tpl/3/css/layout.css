@@ -1,0 +1,56 @@
+@charset "utf-8";
+
+/*public*/
+.left{float:left;}
+.right{float:right;}
+.relative{position:relative;left:0;top:0;}
+.clearfix:before,.clearfix:after{content:"";display:table;}
+.clearfix:after{clear:both;}
+.clearfix{zoom:1;}
+.opacity6{ -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=40)"; /* ie8  */filter:alpha(opacity=40);    /* ie5-7  */opacity:0.4;/* css standard, currently it works in most modern browsers  */}
+.app_center{width:100%;min-width:320px;margin-left:auto;margin-right:auto;}
+.red{color:red;}
+.c_999{color:#999;}
+.pt10{padding-top:10px;}
+.hide{display:none;}
+
+/*public scroll*/
+.scroll{margin:0 auto;max-width:560px;}
+.scroll_box{overflow:hidden;visibility:hidden;position:relative;}
+.scroll_wrap{overflow:hidden; position:relative;}
+.scroll_wrap li{position:relative;display:block;width:100%;float:left;}
+.scroll_wrap li a{display:block;margin:0 auto;position:relative;}
+
+.scroll_position{position:absolute;left:50%; margin-left:-28px;z-index:400px;bottom:6px; overflow:hidden;}
+.scroll_position li{display:block; float:left;width:10px;height:10px; margin:2px;border-radius:5px;background:#fff;
+-webkit-transition:all 1s ease-in-out;
+-o-transition:all 1s ease-in-out;
+-moz-transition:all 1s ease-in-out;
+transition:all 1s ease-in-out;
+}
+.scroll_position li a{font-size:0;}
+.scroll_position li.on{background-color:#f6c235; width:24px;}
+/*.scroll_position_bg{background:#000;position:absolute;bottom:4px;left:50%; margin-left:-36px;padding:0 12px;z-index:380px;height:20px;border-radius:10px;}*/
+
+.scroll_wrap_p p{ width:75%; margin:0 auto; border:#D11213 1px solid; margin-top:15px; line-height:2.5em; background-color:#fff; text-align:center; font-size:1.2em;}
+
+.scroll_position1{ display:none;}
+/*.scroll_position1{position:absolute;left:50%; margin-left:-36px;z-index:400px;bottom:-20px; overflow:hidden;}
+.scroll_position1 dd{display:block; float:left;width:10px;height:10px; margin:1px;border-radius:50%;background:#d8d8d8;}
+.scroll_position1 dd a{font-size:0;}
+.scroll_position1 dd.on1{background-color:#017fba;}
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+

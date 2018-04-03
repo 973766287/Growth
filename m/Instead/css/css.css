@@ -1,0 +1,203 @@
+﻿@charset "utf-8";sss
+/* CSS Document */
+.bBor:after,.tBor:before{position:absolute;right:0;left:0;height:1px;background:#e5e5e5;content:""}
+.tBor:before{top:0}
+.bBor:after{bottom:0}
+.lBor:before,.rBor:after{position:absolute;top:0;bottom:0;width:1px;background:#e5e5e5;content:""}
+.lBor:before{left:0}
+.rBor:after{right:0}
+.trblBor:after{position:absolute;top:0;left:0;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;width:100%;height:100%;border:1px solid #e5e5e5;content:"";point-events:none}
+@media (min--moz-device-pixel-ratio:1.5),(-webkit-min-device-pixel-ratio:1.5),(min-device-pixel-ratio:1.5),(min-resolution:144dpi),(min-resolution:1.5dppx),(-ms-high-contrast:active),(-ms-high-contrast:none){.bBor:after,.tBor:before{-webkit-transform:scaleY(.5);-o-transform:scaleY(.5);transform:scaleY(.5);-ms-transform:scaleY(.5)}
+.lBor:before,.rBor:after{-webkit-transform:scaleX(.5);-o-transform:scaleX(.5);transform:scaleX(.5);-ms-transform:scaleX(.5)}
+.trblBor:after{width:200%;height:200%;-webkit-transform:scale(.5);-o-transform:scale(.5);transform:scale(.5);-ms-transform:scale(.5)}
+.lBor:before,.tBor:before,.trblBor:after{-webkit-transform-origin:0 0;-moz-transform-origin:0 0;-o-transform-origin:0 0;transform-origin:0 0;-ms-transform-origin:0 0}
+.bBor:after,.rBor:after{-webkit-transform-origin:100% 100%;-moz-transform-origin:100% 100%;-o-transform-origin:100% 100%;transform-origin:100% 100%;-ms-transform-origin:100% 100%}
+}
+@media (-webkit-device-pixel-ratio:1.5){.bBor:after,.tBor:before{-webkit-transform:scaleY(.6666);-o-transform:scaleY(.6666);transform:scaleY(.6666);-ms-transform:scaleY(.6666)}
+.lBor:before,.rBor:after{-webkit-transform:scaleX(.6666);-o-transform:scaleX(.6666);transform:scaleX(.6666);-ms-transform:scaleX(.6666)}
+.trblBor:after{width:150%;height:150%;-webkit-transform:scale(.6666);-o-transform:scale(.6666);transform:scale(.6666);-ms-transform:scale(.6666)}
+}
+@media (-webkit-device-pixel-ratio:3){.bBor:after,.tBor:before{-webkit-transform:scaleY(.3333);-o-transform:scaleY(.3333);transform:scaleY(.3333);-ms-transform:scaleY(.3333)}
+.lBor:before,.rBor:after{-webkit-transform:scaleX(.3333);-o-transform:scaleX(.3333);transform:scaleX(.3333);-ms-transform:scaleX(.3333)}
+.trblBor:after{width:300%;height:300%;-webkit-transform:scale(.3333);-o-transform:scale(.3333);transform:scale(.3333);-ms-transform:scale(.3333)}
+}
+
+/*----my----*/
+.myBody{ background-color:#f2f2f2; padding-top:20px;}
+.cardAreaBox,.addCard,.strategy{ width:90%; padding:0 5%;}
+.cardArea{ width:90%; padding:0 5%;border-radius:8px; height:130px; background-color:#0099e5; margin-bottom:20px;}
+.cardArea_top{ width:100%; height:50px; position:relative; padding-top:20px; padding-bottom:10px;}
+.cardArea_number{ padding-left:50px;}
+.cardArea_number h1{ overflow:hidden; font-size:16px; color:#fff; line-height:30px;}
+.cardArea_number h1 span{ font-size:13px !important; float:right; color:rgba(255,255,255,0.8);}
+.cardArea_number h2{font-size:14px; color:#fff; line-height:20px; font-family:Arial;}
+.cardArea_pos{ width:32px; height:32px; padding:3px; background-color:#fff; border-radius:50%; overflow:hidden; position:absolute; left:0px; top:22px;}
+.cardArea_pos img{ width:100%; height:100%;border-radius:50%; }
+.cardArea_bottom{ overflow:hidden; line-height:48px; font-size:14px;}
+.cardArea_bottom h3{ float:left; color:#fff;}
+.cardArea_bottom span{ float:right; width:48px; border:#fff 1px solid; line-height:20px !important; border-radius:11px; margin-top:13px; text-align:center; color:#fff;}
+
+.addCard span{ display:block; line-height:50px; background-color:#fff;border-radius:5px; color:#ffa04c; font-size:16px; text-align:center;}
+.strategy span{ padding-left:20px; line-height:60px;font-size:15px; color:#666; background:url(../images/icon1.png) no-repeat left center; background-size:16px;}
+
+.fixed{ width:100%; position:fixed;bottom:0px; height:60px; background-color:#fff;}
+.fixed ul{overflow:hidden;}
+.fixed ul li{ width:20%; float:left; padding:7px 0 8px 0;}
+.fixed ul li img{ margin:0 auto;}
+.fixed ul li p{ font-size:14px; color:#666; text-align:center; line-height:20px;}
+.fixed ul li p.on{ color:#0099E5;}
+
+/*----add----*/
+.addBody{ background-color:#fff; padding-bottom:30px;}
+.addFrame h2{ background-color:#f3f4fd; position:relative; line-height:50px; padding-left:4%; color:#666; font-size:14px;}
+ul.addFrame li{ margin-left:4%; width:96%;position:relative; overflow:hidden; line-height:50px;}
+ul.addFrame li.addName .add_name{ overflow:hidden;}
+ul.addFrame li h1{ width:25%; float:left; font-size:15px; color:#999;}
+ul.addFrame li.addName .add_name input{ width:70%; float:left; height:50px; font-size:15px; color:#333;line-height:50px;}
+ul.addFrame li.addName .btn{ position:absolute; top:15px; right:10%; width:20px; height:20px;/* background:url(../images/add-false.png) no-repeat center center; background-size:20px;*/}
+
+ul.addFrame li.addId input,
+ul.addFrame li.addNumber input,
+ul.addFrame li.addSafe input,
+ul.addFrame li.addTel input,
+ul.addFrame li.addValidation input{width:75%; float:left; height:50px; font-size:15px; color:#333; font-family:Arial; line-height:50px;}
+
+ul.addFrame li.addBank{ overflow:visible;}
+
+.demo{width:100%;}
+/* select */
+.select{position:relative; width:100%; background:url(../images/add-arrow.png) no-repeat 90% center; background-size:10px; height:50px; z-index:9999;}
+.select dt{height:50px;line-height:50px;overflow:hidden;position:relative;z-index:99; width:100%;}
+.select dt img{ float:left; width:30px; height:30px; margin-top:10px;}
+.select dt span{ float:left; font-size:15px; color:#333; padding-left:10px;}
+
+.select dd{position:absolute;left:0px;top:50px; background-color:#f4f4f4;display:none;width:100%;}
+.select dd ul{width:90%;max-height:255px;overflow-x:hidden; font-size:15px;}
+.select dd ul li{height:50px;line-height:50px;overflow:hidden; width:100%;}
+.select dd ul li img{ float:left; width:30px; height:30px; margin-top:10px;}
+.select dd ul li span{ float:left; font-size:15px; color:#333; padding-left:10px;}
+
+.addValid input{font-size:15px; color:#333; line-height:50px; width:50%;}
+ul.addFrame li.addValidation p{ width:26%; height:26px; position:absolute; right:5%; top:12px; line-height:26px !important; background-color:#2cd792; border-radius:13px; font-size:12px; text-align:center; color:#fff;}
+ul.addFrame li.addAgree input{ float:left; width:16px; height:16px; margin-top:17px;}
+ul.addFrame li.addAgree p{float:left; line-height:50px; padding-left:5px; font-size:14px; color:#000;}
+ul.addFrame li.addAgree p span{ color:#0099e5;}
+
+.addFrame h3{width:90%; margin:20px auto;}
+.addFrame h3 input{ display:block; width:100%; background-color:#0099e5; line-height:36px;color:#fff; font-size:16px; text-align:center;  border-radius:18px;}
+
+/*----xiugai----*/
+ul.addFrame li.zhangdan select{ width:70%;background:url(../images/add-arrow.png) no-repeat 90% center; background-size:10px; height:50px; font-size:15px; color:#333;font-family:Arial;}
+
+
+/*----生成还款计划----*/
+.scBody,.qrBody{ background-color:#f2f2f2;}
+.scAttention{ width:90%; padding:0 5%; padding-bottom:20px;}
+.scAttention h2{ font-size:14px; line-height:50px; color:#666;}
+.scCard{ width:92%; height:50px; padding:20px 4%;border-radius:8px; height:50px; background-color:#0099e5;}
+.scCard_number{ padding-left:50px; position:relative;}
+.scCard_number h1{font-size:16px; color:#fff; line-height:30px;}
+.scCard_number h1 span{ font-size:14px !important; color:rgba(255,255,255,0.9);}
+.scCard_number p{font-size:14px; color:#fff; line-height:20px; font-family:Arial;}
+.scCard_pos{ width:32px; height:32px; padding:3px; background-color:#fff; border-radius:50%; overflow:hidden; position:absolute; left:0; top:4px;}
+.scCard_pos img{ width:100%; height:100%;border-radius:50%;}
+
+
+.scCon{ width:100%;}
+.scCon ul{width:100%; background-color:#fff;}
+.scCon ul li{ width:100%;position:relative; overflow:hidden; line-height:50px;}
+.scCon ul li h1{ padding-left:5%; width:25%; float:left; font-size:15px; color:#999;}
+.scCon ul li input{width:70%; float:left; height:50px; font-size:15px; color:#333; font-family:Arial; line-height:50px;}
+.scCon ul li select{ width:70%;background:url(../images/add-arrow.png) no-repeat 80% center; background-size:10px; height:50px; font-size:15px; color:#333;font-family:Arial;}
+
+.scCon h3{width:90%; margin:0px auto; margin-top:20px; margin-bottom:8px;}
+.scCon h3 input{ display:block; width:100%; background-color:#0099e5; line-height:36px;color:#fff; font-size:16px; text-align:center;  border-radius:18px;}
+.scIntro{width:90%; padding:0 5%;}
+.scIntro span{ font-size:13px; color:#999; line-height:16px;}
+
+ 
+
+/*----确认还款计划----*/
+.qrBody .scCard{ height:100px;}
+.qrBody .scCard_number{ padding-bottom:10px;}
+.schuan{ overflow:hidden; padding-top:10px;}
+.schuan li{ width:33%; position:relative; height:40px;} 
+.schuan li h3,.schuan li p{text-align:center; color:#fff;}
+.schuan li h3{ font-size:15px; line-height:24px;}
+.schuan li p{font-size:13px; line-height:16px;}
+
+.planList ul{ background-color:#fff;}
+.planList ul li{ position:relative; padding:10px 5%;}
+.planList ul li div{ overflow:hidden; line-height:30px;}
+.planList ul li div.planList_top{ font-size:13px;}
+.planList ul li div.planList_top h3{ color:#888;}
+.planList ul li div.planList_top h3 b{ font-size:16px !important; color:#333 !important;}
+.planList ul li div.planList_top span{ color:#888;}
+.planList ul li div.planList_bottom{ font-size:13px;}
+.planList ul li div.planList_bottom h4{ font-size:15px; color:#4c4c4c;}
+.planList ul li div.planList_bottom h4 b{ color:#999;}
+.planList ul li div.planList_bottom span{ color:#0099e5;}
+
+.planList h1{width:90%; margin:0px auto; margin-top:20px; margin-bottom:10px;}
+.planList h1 input{ display:block; width:100%; background-color:#0099e5; line-height:36px;color:#fff; font-size:16px; text-align:center;  border-radius:18px;}
+.qrAgree{width:90%; padding:0 5%; overflow:hidden;}
+.qrAgree input{ float:left; width:16px; height:16px; margin-top:7px;}
+.qrAgree p{float:left; line-height:30px; padding-left:5px; font-size:14px; color:#ccc;}
+.qrAgree p span{ color:#0099e5;}
+.planList h5{ margin:0 5%; line-height:30px;font-size:14px; padding-left:20px; color:#999; background:url(../images/icon1.png) no-repeat left center; background-size:16px;}
+
+
+/*----还款详情----*/
+.dlBody{ background-color:#f2f2f2;}
+.dl_tlt{ height:50px; width:100%; overflow:hidden; position:relative; line-height:50px; background-color:#fff;}
+.dl_tlt h1{ margin-left:5%; padding-left:40px; font-size:16px; color:#333;}
+.dl_tlt h1 span{ font-size:14px;}
+.dl_tlt_pos{ width:32px; height:32px;background-color:#fff; border-radius:50%; overflow:hidden; position:absolute; left:5%; top:9px;}
+.dl_tlt_pos img{ width:100%; height:100%;border-radius:50%; }
+.dl_tlt .dl_tlt_suc{ padding-right:5%; font-size:14px; color:#0099e5;}
+
+
+.dlComplete{ width:100%; background-color:#0099E5; border-bottom:#f2f2f2 10px solid;}
+.surePass{ position:relative; width:100%; overflow:hidden;}
+.circleRun {
+    display: block;
+    margin: 0 auto;
+    padding: 0;
+    width: 50%; padding:15px 0;
+}
+
+.anyield{ width:100%; position:absolute; text-align:center; left:0;top:50%; height: 70px; margin-top:-35px;  z-index: 3;}
+.anyield p{ text-align:center;}
+.anyield p:nth-child(1){ color:#fff; font-size:15px; line-height:20px;}
+.anyield p:nth-child(2){ color:#fff; font-size:20px; line-height:30px; font-family:Arial;}
+.anyield p:nth-child(3){ color:#fff; font-size:15px; line-height:20px;}
+
+.dlComplete ul{ position:relative; overflow:hidden; margin:0 10%; width:80%; padding:15px 0;}
+.dlComplete ul li{ width:49%; position:relative; line-height:20px;}
+.dlComplete ul li h3,.dlComplete ul li p{ text-align:center; color:#fff;}
+.dlComplete ul li h3{ font-size:14px;}
+.dlComplete ul li p{font-size:18px;font-family:Arial;}
+
+.planList ul li.specLi{ line-height:40px;}
+.planList ul li.specLi p{ overflow:hidden; color:#333; font-size:14px;}
+.planList ul li.specLi p span{ float:right; color:#999;font-family:Arial;}
+
+
+
+/*----成功还款----*/
+.success{ width:90%; padding:0 5%;}
+.sucImg{ padding-top:50px;}
+.sucImg img{ display:block; margin:0 auto;}
+.sucImg p{ font-size:18px; line-height:50px; color:#000; text-align:center;}
+.success h1{ color:#ffa04c; text-align:center; padding:0 10%;font-size:15px; line-height:24px; margin:50px 0;}
+
+.suc_complete_look{ overflow:hidden;}
+.suc_complete_look div{ width:49%; height:50px; line-height:50px; background-color:#0099e5; border-radius:5px; text-align:center; font-size:16px;}
+.suc_complete_look div span{ color:#fff;}
+
+
+
+
+
+
+

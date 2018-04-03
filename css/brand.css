@@ -1,0 +1,61 @@
+.brandindex-new{ margin-top:7px;}
+.brand-newinfo{ width:250px; height:186px; background:url(../theme/images/b_bg1.gif) no-repeat center center; float:left}
+.brand-newinfo h2{height:30px; line-height:30px; margin:0px; text-align:left; padding-left:5px; padding-right:5px;padding-bottom:15px; font-weight:400; font-size:14px}
+.brand-newinfo li{ height:22px; line-height:22px; width:200px; overflow:hidden;padding-left:30px;}
+.brandindex-banner{ float:right; margin-left:7px; text-align:center; width:733px; height:189px; overflow:hidden}
+
+.con-box-left{ float:left; width:743px;padding:0px}
+.con-box-right{ float:right; width:240px; padding:0px;}
+.con-box-left-Recommend-brand h2, .con-box-left-New-brand h2,.con-box-right-Hot-brand h2, .con-box-right-Cate-brand h2{background-color:#ededed; height:30px; line-height:30px; margin:0px; margin-bottom:5px;text-align:left; padding-left:5px;font-weight:400; font-size:14px;}
+.con-box-left-Recommend-brand ul,.con-box-left-New-brand ul{ border:1px solid #ccc; margin:0px; padding:0px}
+.con-box-left-Recommend-brand ul,.con-box-left-New-brand ul{ height:380px; margin-bottom:8px;}
+.con-box-left-Recommend-brand li,.con-box-left-New-brand li{ float:left; width:162px; height:96px; padding:9px 5px;margin:5px 5px 5px 6px;text-align:center;background:url(../theme/images/bradn_bg.gif) no-repeat center 4px; border:1px solid #fff}
+.con-box-left-Recommend-brand li:hover,.con-box-left-New-brand li:hover{ border:1px solid #B70000}
+.con-box-left-Recommend-brand li a,.con-box-left-New-brand li a{ display:block}
+.con-box-left-Recommend-brand li a.a1,.con-box-left-New-brand li a.a1{ height:77px}
+.con-box-left-Recommend-brand h2, .con-box-left-New-brand h2{border-bottom:2px solid #EF8300;background:url(../theme/images/h2_bg2.png) no-repeat left 1px; line-height:30px; margin:0px; padding:0px 0px 0px 5px;}
+.con-box-left-Recommend-brand h2 span, .con-box-left-New-brand h2 span{ float:left; color:#FFF}
+.con-box-left-Recommend-brand h2 a, .con-box-left-New-brand h2 a{ float:right}
+
+.con-box-right-Hot-brand,.con-box-right-Cate-brand{border:1px solid #ccc; min-height:250px;}
+.con-box-right-Hot-brand li{ float:left; width:100px;line-height:20px;padding-left:10px; padding-top:2px; border-bottom:1px dotted #ededed; margin-right:8px}
+.con-box-right-Cate-brand li{ line-height:16px; border-bottom:1px dotted #ccc; width:220px; overflow:hidden; margin-left:8px; padding-top:2px}
+.con-box-right-Hot-brand h2, .con-box-right-Cate-brand h2{background:url(../theme/images/brand_headc.gif) no-repeat -2px center;}
+
+.con-box-right-ads{ padding:7px 0px 7px 0px}
+.con-box-right-ads p{ border:1px solid #ccc; padding:5px}
+
+/*brand list*/
+.brand-con{  padding-top:7px; padding-bottom:20px; min-height:500px;}
+.brand-con h2{background-color:#ededed; height:30px; line-height:30px; margin:0px; margin-bottom:5px;text-align:left; padding-left:5px;font-weight:400; font-size:14px;background:url(../theme/images/h2_bg2.png) no-repeat left 1px; border-bottom:2px solid #EF8300}
+
+.brand-con .brand-con-list ul{ padding-top:10px}
+.brand-con .brand-con-list li{ height:27px; line-height:27px; width:142px; overflow:hidden; background:url(../theme/images/allsort_bg.png) no-repeat left center; float:left; margin-right:20px; text-align:center}
+.brand-con .brand-con-list li:hover{ background:url(../theme/images/allsort_bg_select.png) no-repeat left center;}
+.brand-con .brand-con-list li a:hover{ color:#fff}
+.brand-con .brand-con-list li a{ display:block; width:100%; height:100%}
+
+.brand-recommend{ padding-top:20px;}
+.brand-recommend h1{ font-size:16px; border-bottom:1px solid #ccc; height:20px; line-height:20px; padding-left:5px; color:#666}
+.brand-recommend li{ float:left; width:162px; height:96px; padding:9px 5px;margin:5px 5px 5px 6px;text-align:center;background:url(../theme/images/bradn_bg.gif) no-repeat center 4px; border:1px solid #fff; position:relative}
+.brand-recommend li:hover{ border:1px solid #B70000}
+.brand-recommend li a{ display:block}
+.brand-recommend li span{ display:block; height:20px; line-height:20px; width:160px; position:absolute; bottom:5px; left:5px; text-align:center; background-color:#ededed}
+
+.wrap_top_munu{ position:absolute; left:0px; top:40px; display:none; z-index:999;}
+
+/*brand goods*/
+.sale-product-menu{ border:1px solid #ccc; background-color:#ededed; padding:5px;}
+.brand-box{ background-color:#FFF; padding:5px; position:relative}
+.brand-box p.brand-name{ font-size:14px; font-weight:bold; height:25px; line-height:25px; color:#666}
+.brand-desc{ padding:5px; color:#999; display:none}
+.brand-desc-but{background:url(../theme/images/showintro.jpg) no-repeat center center; width:82px; height:22px; cursor:pointer; position:absolute; right:0px; bottom:0px;}
+.sale-product-menu .brand-cate-box{ padding:10px 5px 10px 5px; background-color:#FFF;}
+.sale-product-menu .brand-cate-box a{ padding:2px 4px 2px 4px; background-color:#ededed; border-bottom:1px solid #ccc; border-right:1px solid #ccc; margin-right:5px;}
+
+.brandLeft{ border:1px solid #ccc; background-color:#ededed; padding:5px;}
+.brandLeft h3{ margin:0px; padding:5px; height:16px; line-height:16px; font-size:14px;background-color:#CC0001; color:#FFF}
+.brandLeft .brandLeftimg{ background-color:#FFF; padding-top:5px}
+.sale-product-right-newbes h2{ border-top:2px solid #cc0001}
+.sale-product-right-newbes li{ border-bottom:1px solid #ccc; font-weight:bold;}
+

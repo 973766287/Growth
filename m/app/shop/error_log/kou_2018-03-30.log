@@ -1,0 +1,84 @@
+[2018-03-30 13:03:19] request message:
+array (
+  'service' => 'gbp_same_id_credit_card_treaty_collect',
+  'reqNo' => 'KFT0987654321',
+  'version' => '1.0.0-IEST',
+  'charset' => 'utf-8',
+  'language' => 'zh_CN',
+  'callerIp' => '127.0.0.1',
+  'merchantId' => '2018032100095306',
+  'orderNo' => 'QZ201803301522388059',
+  'productNo' => 'GBPTM004',
+  'treatyNo' => '21000000196958',
+  'amount' => 37700,
+  'tradeTime' => '20180330130319',
+  'currency' => 'CNY',
+  'custAccountId' => '2',
+  'holderName' => '樊鑫',
+  'bankType' => '1051000',
+  'bankCardNo' => '7226365812456244',
+  'rateAmount' => 200,
+  'custCardValidDate' => '0323',
+  'custCardCvv2' => '251',
+)
+
+[2018-03-30 13:03:19] response message:
+'{"reqNo":"KFT0987654321","errorCode":"20101","failureDetails":"银行行别与代扣协议银行行别不一致,代扣协议银行行别:3085840","orderNo":"QZ201803301522388059","status":"2"}'
+
+<------------------------------------------------------------------------------------------------------------->
+[2018-03-30 13:03:49] request message:
+array (
+  'service' => 'gbp_same_id_credit_card_treaty_collect',
+  'reqNo' => 'KFT0987654321',
+  'version' => '1.0.0-IEST',
+  'charset' => 'utf-8',
+  'language' => 'zh_CN',
+  'callerIp' => '127.0.0.1',
+  'merchantId' => '2018032100095306',
+  'orderNo' => 'QZ201803301522389049',
+  'productNo' => 'GBPTM004',
+  'treatyNo' => '21000000196975',
+  'amount' => 37700,
+  'tradeTime' => '20180330130349',
+  'currency' => 'CNY',
+  'custAccountId' => '2',
+  'holderName' => '樊鑫',
+  'bankType' => '1051000',
+  'bankCardNo' => '7226365812456244',
+  'rateAmount' => 200,
+  'custCardValidDate' => '0323',
+  'custCardCvv2' => '251',
+)
+
+[2018-03-30 13:03:50] response message:
+'{"reqNo":"KFT0987654321","errorCode":"","failureDetails":"","orderNo":"QZ201803301522389049","status":"1"}'
+
+<------------------------------------------------------------------------------------------------------------->
+[2018-03-30 14:03:27] request message:
+array (
+  'service' => 'gbp_same_id_credit_card_treaty_collect',
+  'reqNo' => 'KFT0987654321',
+  'version' => '1.0.0-IEST',
+  'charset' => 'utf-8',
+  'language' => 'zh_CN',
+  'callerIp' => '127.0.0.1',
+  'merchantId' => '2018032100095306',
+  'orderNo' => 'QZ201803301522391367',
+  'productNo' => 'GBPTM004',
+  'treatyNo' => '21000000196978',
+  'amount' => 37700,
+  'tradeTime' => '20180330140327',
+  'currency' => 'CNY',
+  'custAccountId' => '2',
+  'holderName' => '樊鑫',
+  'bankType' => '1051000',
+  'bankCardNo' => '7226365812456244',
+  'rateAmount' => 200,
+  'custCardValidDate' => '0323',
+  'custCardCvv2' => '251',
+)
+
+[2018-03-30 14:03:28] response message:
+'{"reqNo":"KFT0987654321","errorCode":"","failureDetails":"","orderNo":"QZ201803301522391367","status":"1"}'
+
+<------------------------------------------------------------------------------------------------------------->

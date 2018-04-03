@@ -1,0 +1,7 @@
+insert into `gz_user_level_log` (user_id,user_rank,create_time,type,remark) values ('4', 12,UNIX_TIMESTAMP(),2,'直接充值进行会员升级')
+SELECT parent_uid FROM `gz_user_tuijian` WHERE uid = '4' LIMIT 1
+SELECT parent_uid FROM `gz_user_tuijian` WHERE uid = '4' LIMIT 1
+UPDATE `gz_user` SET `tuiguang` = `tuiguang`+7900,`mymoney` = `mymoney`+7900 WHERE user_id = '12'
+SELECT * FROM `gz_user_tuijian_fx` WHERE uid = '4' LIMIT 1
+SELECT * FROM `gz_user` WHERE user_id='0' LIMIT 1
+SELECT * FROM `gz_user` WHERE user_id='0' LIMIT 1

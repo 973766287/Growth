@@ -1,0 +1,171 @@
+[2018-03-16 14:43:23]updateAPI1:
+appId=10058951&cityCode=320100&customerInfo=c+DMCEz1Ebu1dwcKfKbSUml5QxdJqvt90Fv01cHnfGfi4l7m0wxrFjsm/6FHa3AbOu8UNcqYmFYmZbTODvTTUg==&d0fee=0&fee0=0&mchId=&nonceStr=tYkcfLVCadayeNbcONUxgBIWvfIaLKVs&provinceCode=320000&key=092685c0a6e642b492b9f23a6f07509f
+
+[2018-03-16 14:43:23]updateAPI2:
+{"appId":"10058951","mchId":"","cityCode":"320100","customerInfo":"c+DMCEz1Ebu1dwcKfKbSUml5QxdJqvt90Fv01cHnfGfi4l7m0wxrFjsm\/6FHa3AbOu8UNcqYmFYmZbTODvTTUg==","d0fee":"0","fee0":"0","nonceStr":"tYkcfLVCadayeNbcONUxgBIWvfIaLKVs","provinceCode":"320000","sign":"8eb628cb2ffd2e9c7c7133b5fe575363"}
+
+[2018-03-16 14:43:23]updateAPI3:
+array (
+  'isSuccess' => false,
+  'message' => '商户号不能为空',
+  'code' => '00',
+)
+
+[2018-03-16 18:06:03]API1:
+address=南京市&appId=10058951&cityCode=320100&customerInfo=WiHxxvMH8uzY9QAY9E1c+TQ2eLjsnreyh8h4MO0A8vDMH/67PZAKBU1qtAe63EIVI7UBjSTR+WnTiE7TW4vfEQ==&d0fee=200&fee0=5.5&nonceStr=T0UskXDtZ4Ux4nPXQs34O9S2pwZgMxVJ&pointsType=0&provinceCode=320000&key=092685c0a6e642b492b9f23a6f07509f
+
+[2018-03-16 18:06:03]API2:
+{"address":"\u5357\u4eac\u5e02","appId":"10058951","cityCode":"320100","customerInfo":"WiHxxvMH8uzY9QAY9E1c+TQ2eLjsnreyh8h4MO0A8vDMH\/67PZAKBU1qtAe63EIVI7UBjSTR+WnTiE7TW4vfEQ==","d0fee":200,"fee0":5.5,"nonceStr":"T0UskXDtZ4Ux4nPXQs34O9S2pwZgMxVJ","pointsType":0,"provinceCode":"320000","sign":"4a0d10c690c8795a8cf52478bc78f4ac"}
+
+[2018-03-16 18:06:03]API3:
+array (
+  'isSuccess' => false,
+  'message' => '暂时不支持该卡！请更换银行卡重试！（联行号）',
+  'code' => '00',
+)
+
+[2018-03-16 18:06:08]API1:
+address=南京市&appId=10058951&cityCode=320100&customerInfo=WiHxxvMH8uzY9QAY9E1c+TQ2eLjsnreyh8h4MO0A8vDMH/67PZAKBU1qtAe63EIVI7UBjSTR+WnTiE7TW4vfEQ==&d0fee=200&fee0=5.5&nonceStr=kGCL8FDUTSIPHjmlHsVv9qTVz0zhgeMH&pointsType=0&provinceCode=320000&key=092685c0a6e642b492b9f23a6f07509f
+
+[2018-03-16 18:06:08]API2:
+{"address":"\u5357\u4eac\u5e02","appId":"10058951","cityCode":"320100","customerInfo":"WiHxxvMH8uzY9QAY9E1c+TQ2eLjsnreyh8h4MO0A8vDMH\/67PZAKBU1qtAe63EIVI7UBjSTR+WnTiE7TW4vfEQ==","d0fee":200,"fee0":5.5,"nonceStr":"kGCL8FDUTSIPHjmlHsVv9qTVz0zhgeMH","pointsType":0,"provinceCode":"320000","sign":"401464a11c7f52f77b6a00edf3adfd25"}
+
+[2018-03-16 18:06:08]API3:
+array (
+  'isSuccess' => false,
+  'message' => '暂时不支持该卡！请更换银行卡重试！（联行号）',
+  'code' => '00',
+)
+
+[2018-03-16 18:06:52]API1:
+address=南京市&appId=10058951&cityCode=320100&customerInfo=WiHxxvMH8uzY9QAY9E1c+TQ2eLjsnreyh8h4MO0A8vDMH/67PZAKBU1qtAe63EIVI7UBjSTR+WnTiE7TW4vfEQ==&d0fee=200&fee0=5.5&nonceStr=CPTOruSUvMAqKd3vmO4r9hCEH1crraNO&pointsType=0&provinceCode=320000&key=092685c0a6e642b492b9f23a6f07509f
+
+[2018-03-16 18:06:52]API2:
+{"address":"\u5357\u4eac\u5e02","appId":"10058951","cityCode":"320100","customerInfo":"WiHxxvMH8uzY9QAY9E1c+TQ2eLjsnreyh8h4MO0A8vDMH\/67PZAKBU1qtAe63EIVI7UBjSTR+WnTiE7TW4vfEQ==","d0fee":200,"fee0":5.5,"nonceStr":"CPTOruSUvMAqKd3vmO4r9hCEH1crraNO","pointsType":0,"provinceCode":"320000","sign":"2632830abd763311eac6ee1edc22a30b"}
+
+[2018-03-16 18:06:52]API3:
+array (
+  'isSuccess' => false,
+  'message' => '暂时不支持该卡！请更换银行卡重试！（联行号）',
+  'code' => '00',
+)
+
+[2018-03-16 18:07:15]API1:
+address=南京市&appId=10058951&cityCode=320100&customerInfo=WiHxxvMH8uzY9QAY9E1c+TQ2eLjsnreyh8h4MO0A8vDMH/67PZAKBU1qtAe63EIVI7UBjSTR+WnTiE7TW4vfEQ==&d0fee=200&fee0=5.5&nonceStr=XtdbA9nmUqgnLZGv542Mm3j1ViZnNepk&pointsType=0&provinceCode=320000&key=092685c0a6e642b492b9f23a6f07509f
+
+[2018-03-16 18:07:15]API2:
+{"address":"\u5357\u4eac\u5e02","appId":"10058951","cityCode":"320100","customerInfo":"WiHxxvMH8uzY9QAY9E1c+TQ2eLjsnreyh8h4MO0A8vDMH\/67PZAKBU1qtAe63EIVI7UBjSTR+WnTiE7TW4vfEQ==","d0fee":200,"fee0":5.5,"nonceStr":"XtdbA9nmUqgnLZGv542Mm3j1ViZnNepk","pointsType":0,"provinceCode":"320000","sign":"bb32027198700f628cc2d27aafd9a84e"}
+
+[2018-03-16 18:07:15]API3:
+array (
+  'isSuccess' => false,
+  'message' => '暂时不支持该卡！请更换银行卡重试！（联行号）',
+  'code' => '00',
+)
+
+[2018-03-16 18:11:01]API1:
+address=南京市&appId=10058951&cityCode=320100&customerInfo=WiHxxvMH8uzY9QAY9E1c+TQ2eLjsnreyh8h4MO0A8vDMH/67PZAKBU1qtAe63EIVI7UBjSTR+WnTiE7TW4vfEQ==&d0fee=200&fee0=5.5&nonceStr=8CLHKCnle2BJID3EJYEhn06Y2zLnMrdl&pointsType=0&provinceCode=320000&key=092685c0a6e642b492b9f23a6f07509f
+
+[2018-03-16 18:11:01]API2:
+{"address":"\u5357\u4eac\u5e02","appId":"10058951","cityCode":"320100","customerInfo":"WiHxxvMH8uzY9QAY9E1c+TQ2eLjsnreyh8h4MO0A8vDMH\/67PZAKBU1qtAe63EIVI7UBjSTR+WnTiE7TW4vfEQ==","d0fee":200,"fee0":5.5,"nonceStr":"8CLHKCnle2BJID3EJYEhn06Y2zLnMrdl","pointsType":0,"provinceCode":"320000","sign":"13274cf66501a7a4852ce4c06ff8348c"}
+
+[2018-03-16 18:11:01]API3:
+array (
+  'isSuccess' => false,
+  'message' => '暂时不支持该卡！请更换银行卡重试！（联行号）',
+  'code' => '00',
+)
+
+[2018-03-16 18:12:00]API1:
+address=南京市&appId=10058951&cityCode=320100&customerInfo=WiHxxvMH8uzY9QAY9E1c+TQ2eLjsnreyh8h4MO0A8vDMH/67PZAKBU1qtAe63EIVI7UBjSTR+WnTiE7TW4vfEQ==&d0fee=200&fee0=5.5&nonceStr=hHPbgjHosssAwajE5sKtaekUHQkCQAc1&pointsType=0&provinceCode=320000&key=092685c0a6e642b492b9f23a6f07509f
+
+[2018-03-16 18:12:00]API2:
+{"address":"\u5357\u4eac\u5e02","appId":"10058951","cityCode":"320100","customerInfo":"WiHxxvMH8uzY9QAY9E1c+TQ2eLjsnreyh8h4MO0A8vDMH\/67PZAKBU1qtAe63EIVI7UBjSTR+WnTiE7TW4vfEQ==","d0fee":200,"fee0":5.5,"nonceStr":"hHPbgjHosssAwajE5sKtaekUHQkCQAc1","pointsType":0,"provinceCode":"320000","sign":"bb9be995eadb7b95c185822ac86549ca"}
+
+[2018-03-16 18:12:00]API3:
+array (
+  'isSuccess' => false,
+  'message' => '暂时不支持该卡！请更换银行卡重试！（联行号）',
+  'code' => '00',
+)
+
+[2018-03-16 18:13:28]API1:
+address=南京市&appId=10058951&cityCode=320100&customerInfo=WiHxxvMH8uzY9QAY9E1c+TQ2eLjsnreyh8h4MO0A8vDMH/67PZAKBU1qtAe63EIVI7UBjSTR+WnTiE7TW4vfEQ==&d0fee=200&fee0=5.5&nonceStr=WoUe9dTzhU9P2zQgoApSO3Km7yOYXRMr&pointsType=0&provinceCode=320000&key=092685c0a6e642b492b9f23a6f07509f
+
+[2018-03-16 18:13:28]API2:
+{"address":"\u5357\u4eac\u5e02","appId":"10058951","cityCode":"320100","customerInfo":"WiHxxvMH8uzY9QAY9E1c+TQ2eLjsnreyh8h4MO0A8vDMH\/67PZAKBU1qtAe63EIVI7UBjSTR+WnTiE7TW4vfEQ==","d0fee":200,"fee0":5.5,"nonceStr":"WoUe9dTzhU9P2zQgoApSO3Km7yOYXRMr","pointsType":0,"provinceCode":"320000","sign":"cb1f15c3bc8558697ec5bcaa42b1c592"}
+
+[2018-03-16 18:13:28]API3:
+array (
+  'isSuccess' => false,
+  'message' => '暂时不支持该卡！请更换银行卡重试！（联行号）',
+  'code' => '00',
+)
+
+[2018-03-16 18:16:31]API1:
+address=南京市&appId=10058951&cityCode=320100&customerInfo=WiHxxvMH8uzY9QAY9E1c+TQ2eLjsnreyh8h4MO0A8vDMH/67PZAKBU1qtAe63EIVI7UBjSTR+WnTiE7TW4vfEQ==&d0fee=200&fee0=5.5&nonceStr=kQ8t0RC9uR3dkJ3kJO8ntUYxQk1u0CD1&pointsType=0&provinceCode=320000&key=092685c0a6e642b492b9f23a6f07509f
+
+[2018-03-16 18:16:31]API2:
+{"address":"\u5357\u4eac\u5e02","appId":"10058951","cityCode":"320100","customerInfo":"WiHxxvMH8uzY9QAY9E1c+TQ2eLjsnreyh8h4MO0A8vDMH\/67PZAKBU1qtAe63EIVI7UBjSTR+WnTiE7TW4vfEQ==","d0fee":200,"fee0":5.5,"nonceStr":"kQ8t0RC9uR3dkJ3kJO8ntUYxQk1u0CD1","pointsType":0,"provinceCode":"320000","sign":"a1d4a6176e8272384edb8ea189504b27"}
+
+[2018-03-16 18:16:31]API3:
+array (
+  'isSuccess' => false,
+  'message' => '暂时不支持该卡！请更换银行卡重试！（联行号）',
+  'code' => '00',
+)
+
+[2018-03-16 18:16:45]API1:
+address=南京市&appId=10058951&cityCode=320100&customerInfo=WiHxxvMH8uzY9QAY9E1c+TQ2eLjsnreyh8h4MO0A8vDMH/67PZAKBU1qtAe63EIVI7UBjSTR+WnTiE7TW4vfEQ==&d0fee=200&fee0=5.5&nonceStr=oP8QSg6IF7u9lNdjdmV86TPcBTLyhqlH&pointsType=0&provinceCode=320000&key=092685c0a6e642b492b9f23a6f07509f
+
+[2018-03-16 18:16:45]API2:
+{"address":"\u5357\u4eac\u5e02","appId":"10058951","cityCode":"320100","customerInfo":"WiHxxvMH8uzY9QAY9E1c+TQ2eLjsnreyh8h4MO0A8vDMH\/67PZAKBU1qtAe63EIVI7UBjSTR+WnTiE7TW4vfEQ==","d0fee":200,"fee0":5.5,"nonceStr":"oP8QSg6IF7u9lNdjdmV86TPcBTLyhqlH","pointsType":0,"provinceCode":"320000","sign":"6fa4aa92e08ed219037953d67f0ad8d4"}
+
+[2018-03-16 18:16:46]API3:
+array (
+  'isSuccess' => false,
+  'message' => '暂时不支持该卡！请更换银行卡重试！（联行号）',
+  'code' => '00',
+)
+
+[2018-03-16 18:21:07]API1:
+address=南京市&appId=10058951&cityCode=320100&customerInfo=jUjNOPJ5cIGYblZosTl+v0K/9ogRMeOCLpAtqj+I7IqYGIWV8mNDAH+eUa/h54lOOfi0AyVp0qHFqwCXKIJhaQ==&d0fee=200&fee0=5&nonceStr=wlR49cqha62Y7c5erDo0arZnXjOQ8zR0&pointsType=0&provinceCode=320000&key=092685c0a6e642b492b9f23a6f07509f
+
+[2018-03-16 18:21:07]API2:
+{"address":"\u5357\u4eac\u5e02","appId":"10058951","cityCode":"320100","customerInfo":"jUjNOPJ5cIGYblZosTl+v0K\/9ogRMeOCLpAtqj+I7IqYGIWV8mNDAH+eUa\/h54lOOfi0AyVp0qHFqwCXKIJhaQ==","d0fee":200,"fee0":5,"nonceStr":"wlR49cqha62Y7c5erDo0arZnXjOQ8zR0","pointsType":0,"provinceCode":"320000","sign":"f86434d2de201c737f4356853a43cc93"}
+
+[2018-03-16 18:21:07]API3:
+array (
+  'isSuccess' => true,
+  'message' => '进件成功！',
+  'code' => '00',
+  'data' => 19008532,
+)
+
+[2018-03-16 19:15:28]API1:
+address=南京市&appId=10058951&cityCode=320100&customerInfo=7mouVeX8YpABlPnta4KkNCQzv258sbA+r78Z5t172Zyfk/l3nmHBvFD77z3R+4JRgAqaJbPO6b0u8Kj1eSjJOA==&d0fee=200&fee0=5.5&nonceStr=dl59kcu9q4ZocrwBsl1B8RteJuGQiUTS&pointsType=0&provinceCode=320000&key=092685c0a6e642b492b9f23a6f07509f
+
+[2018-03-16 19:15:28]API2:
+{"address":"\u5357\u4eac\u5e02","appId":"10058951","cityCode":"320100","customerInfo":"7mouVeX8YpABlPnta4KkNCQzv258sbA+r78Z5t172Zyfk\/l3nmHBvFD77z3R+4JRgAqaJbPO6b0u8Kj1eSjJOA==","d0fee":200,"fee0":5.5,"nonceStr":"dl59kcu9q4ZocrwBsl1B8RteJuGQiUTS","pointsType":0,"provinceCode":"320000","sign":"21c0eadc5523d7cbe8c2dcb6aa818eb9"}
+
+[2018-03-16 19:15:28]API3:
+array (
+  'isSuccess' => true,
+  'message' => '进件成功！',
+  'code' => '00',
+  'data' => 19008664,
+)
+
+[2018-03-16 21:46:42]updateAPI1:
+appId=10058951&cityCode=320100&customerInfo=bpOaFEcKN8tr8YC5nRpItsPYmXo4wbGi2E3NVczqBWhe9gVZtq5eybL88uFE9q+RA0yOUHKrwIAs2CnbLlojyg==&d0fee=200&fee0=4.5&mchId=19003678&nonceStr=gMCvz9wKWsNdCekiUD1zosAwnE8OWYhS&provinceCode=320000&key=092685c0a6e642b492b9f23a6f07509f
+
+[2018-03-16 21:46:42]updateAPI2:
+{"appId":"10058951","mchId":"19003678","cityCode":"320100","customerInfo":"bpOaFEcKN8tr8YC5nRpItsPYmXo4wbGi2E3NVczqBWhe9gVZtq5eybL88uFE9q+RA0yOUHKrwIAs2CnbLlojyg==","d0fee":"200","fee0":"4.5","nonceStr":"gMCvz9wKWsNdCekiUD1zosAwnE8OWYhS","provinceCode":"320000","sign":"da7041af22b44785419517a303e6d3af"}
+
+[2018-03-16 21:46:42]updateAPI3:
+array (
+  'isSuccess' => true,
+  'message' => '修改成功',
+  'code' => '00',
+)
+

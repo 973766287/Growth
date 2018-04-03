@@ -1,0 +1,312 @@
+[2018-03-15 14:49:26]API0:
+4367450126685151|陈华军|350623198101014115|13023882599
+
+[2018-03-15 14:49:26]API1:
+agentOrderNo=QZ2018031515210965603&appId=10058951&customerInfo=gFm8tAZyT64Iz3YkaI0LhTKl1hSEtUPtuH0TTt2xwOkXi7/VjD/0aLg0WxB+DY6bIQedWOv6b3UZBhKsvLeiNw==&cvn2=516&mchId=19003678&nonceStr=idYvoenQOW6GxeuVSOciULsgwOJimtTc&notifyUrl=http://hk.2bku.cn/m/wxpay/notify_url_xj_api.php&key=092685c0a6e642b492b9f23a6f07509f
+
+[2018-03-15 14:49:26]API2:
+{"agentOrderNo":"QZ2018031515210965603","appId":"10058951","customerInfo":"gFm8tAZyT64Iz3YkaI0LhTKl1hSEtUPtuH0TTt2xwOkXi7\/VjD\/0aLg0WxB+DY6bIQedWOv6b3UZBhKsvLeiNw==","cvn2":"516","totalFee":19900,"mchId":"19003678","nonceStr":"idYvoenQOW6GxeuVSOciULsgwOJimtTc","notifyUrl":"http:\/\/hk.2bku.cn\/m\/wxpay\/notify_url_xj_api.php","sign":"667c862f820f8ebc4f5b3e85fee62a81"}
+
+[2018-03-15 14:49:29]API3:
+array (
+  'isSuccess' => true,
+  'message' => '交易请求成功！',
+  'code' => '00',
+  'data' => 
+  array (
+    'orderNo' => '10001000302156',
+    'agentOrderNo' => 'QZ2018031515210965603',
+    'totalFee' => 19900,
+    'mchId' => '19003678',
+    'tradeTime' => '2018-03-15 14:49:26',
+    'state' => '0',
+    'stateMsg' => '支付中',
+  ),
+)
+
+[2018-03-15 15:07:18]API0:
+5316590000411882|||
+
+[2018-03-15 15:07:18]API1:
+agentOrderNo=QZ20180315152109762539&appId=10058951&customerInfo=ZvLqYV3C+iNfEf8LSNE/+LiQBWMQB9z3&cvn2=&mchId=&nonceStr=9bSAdft5C9X74gBb8AtFUNOjK9CWhO8c&notifyUrl=http://hk.2bku.cn/m/wxpay/notify_url_xj_api.php&key=092685c0a6e642b492b9f23a6f07509f
+
+[2018-03-15 15:07:18]API2:
+{"agentOrderNo":"QZ20180315152109762539","appId":"10058951","customerInfo":"ZvLqYV3C+iNfEf8LSNE\/+LiQBWMQB9z3","cvn2":null,"totalFee":12500,"mchId":null,"nonceStr":"9bSAdft5C9X74gBb8AtFUNOjK9CWhO8c","notifyUrl":"http:\/\/hk.2bku.cn\/m\/wxpay\/notify_url_xj_api.php","sign":"ef113046c882b541d337d1f03ea383d2"}
+
+[2018-03-15 15:07:18]API3:
+array (
+  'code' => '400',
+  'message' => '商户号必填',
+  'isSuccess' => false,
+)
+
+[2018-03-15 15:07:54]API0:
+5316590000411882|||
+
+[2018-03-15 15:07:54]API1:
+agentOrderNo=QZ20180315152109766639&appId=10058951&customerInfo=ZvLqYV3C+iNfEf8LSNE/+LiQBWMQB9z3&cvn2=&mchId=&nonceStr=UTVlj1F9PF0q4qDcdPbvlqvljxruyqKN&notifyUrl=http://hk.2bku.cn/m/wxpay/notify_url_xj_api.php&key=092685c0a6e642b492b9f23a6f07509f
+
+[2018-03-15 15:07:54]API2:
+{"agentOrderNo":"QZ20180315152109766639","appId":"10058951","customerInfo":"ZvLqYV3C+iNfEf8LSNE\/+LiQBWMQB9z3","cvn2":null,"totalFee":10000,"mchId":null,"nonceStr":"UTVlj1F9PF0q4qDcdPbvlqvljxruyqKN","notifyUrl":"http:\/\/hk.2bku.cn\/m\/wxpay\/notify_url_xj_api.php","sign":"e64953faa0d1fe21dac734f1fb50f185"}
+
+[2018-03-15 15:07:54]API3:
+array (
+  'code' => '400',
+  'message' => '商户号必填',
+  'isSuccess' => false,
+)
+
+[2018-03-15 15:08:13]API0:
+5316590000411882|||
+
+[2018-03-15 15:08:13]API1:
+agentOrderNo=QZ20180315152109768439&appId=10058951&customerInfo=ZvLqYV3C+iNfEf8LSNE/+LiQBWMQB9z3&cvn2=&mchId=&nonceStr=U2NIWitASDUoLgPaEiVP2Wk7V0K8fVh6&notifyUrl=http://hk.2bku.cn/m/wxpay/notify_url_xj_api.php&key=092685c0a6e642b492b9f23a6f07509f
+
+[2018-03-15 15:08:13]API2:
+{"agentOrderNo":"QZ20180315152109768439","appId":"10058951","customerInfo":"ZvLqYV3C+iNfEf8LSNE\/+LiQBWMQB9z3","cvn2":null,"totalFee":10000,"mchId":null,"nonceStr":"U2NIWitASDUoLgPaEiVP2Wk7V0K8fVh6","notifyUrl":"http:\/\/hk.2bku.cn\/m\/wxpay\/notify_url_xj_api.php","sign":"42c9a1d710a6fefeffe1f515d45c4748"}
+
+[2018-03-15 15:08:13]API3:
+array (
+  'code' => '400',
+  'message' => '商户号必填',
+  'isSuccess' => false,
+)
+
+[2018-03-15 15:09:33]API0:
+5316590000411882|||
+
+[2018-03-15 15:09:33]API1:
+agentOrderNo=QZ20180315152109776539&appId=10058951&customerInfo=ZvLqYV3C+iNfEf8LSNE/+LiQBWMQB9z3&cvn2=&mchId=&nonceStr=CO5yLdbLUR4e5ZsjrhMSNJvvEFptXMD8&notifyUrl=http://hk.2bku.cn/m/wxpay/notify_url_xj_api.php&key=092685c0a6e642b492b9f23a6f07509f
+
+[2018-03-15 15:09:33]API2:
+{"agentOrderNo":"QZ20180315152109776539","appId":"10058951","customerInfo":"ZvLqYV3C+iNfEf8LSNE\/+LiQBWMQB9z3","cvn2":null,"totalFee":10000,"mchId":null,"nonceStr":"CO5yLdbLUR4e5ZsjrhMSNJvvEFptXMD8","notifyUrl":"http:\/\/hk.2bku.cn\/m\/wxpay\/notify_url_xj_api.php","sign":"3f88d9fc87a3b8d5f167aaa5d921a534"}
+
+[2018-03-15 15:09:33]API3:
+array (
+  'code' => '400',
+  'message' => '商户号必填',
+  'isSuccess' => false,
+)
+
+[2018-03-15 15:10:34]API0:
+5316590000411882|||
+
+[2018-03-15 15:10:34]API1:
+agentOrderNo=QZ20180315152109782539&appId=10058951&customerInfo=ZvLqYV3C+iNfEf8LSNE/+LiQBWMQB9z3&cvn2=&mchId=&nonceStr=vUeCrRqCpcUTCLB0fU3IcFBZxoM0Er4c&notifyUrl=http://hk.2bku.cn/m/wxpay/notify_url_xj_api.php&key=092685c0a6e642b492b9f23a6f07509f
+
+[2018-03-15 15:10:34]API2:
+{"agentOrderNo":"QZ20180315152109782539","appId":"10058951","customerInfo":"ZvLqYV3C+iNfEf8LSNE\/+LiQBWMQB9z3","cvn2":null,"totalFee":10000,"mchId":null,"nonceStr":"vUeCrRqCpcUTCLB0fU3IcFBZxoM0Er4c","notifyUrl":"http:\/\/hk.2bku.cn\/m\/wxpay\/notify_url_xj_api.php","sign":"e95b13cd9a535ed3649c718bb3084bee"}
+
+[2018-03-15 15:10:34]API3:
+array (
+  'code' => '400',
+  'message' => '商户号必填',
+  'isSuccess' => false,
+)
+
+[2018-03-15 15:36:44]API0:
+5316590000411882|||
+
+[2018-03-15 15:36:44]API1:
+agentOrderNo=QZ20180315152109939639&appId=10058951&customerInfo=ZvLqYV3C+iNfEf8LSNE/+LiQBWMQB9z3&cvn2=&mchId=&nonceStr=ypYteNylm1epsNPgbS9Ww5deiYa33syO&notifyUrl=http://hk.2bku.cn/m/wxpay/notify_url_xj_api.php&key=092685c0a6e642b492b9f23a6f07509f
+
+[2018-03-15 15:36:44]API2:
+{"agentOrderNo":"QZ20180315152109939639","appId":"10058951","customerInfo":"ZvLqYV3C+iNfEf8LSNE\/+LiQBWMQB9z3","cvn2":null,"totalFee":10000,"mchId":null,"nonceStr":"ypYteNylm1epsNPgbS9Ww5deiYa33syO","notifyUrl":"http:\/\/hk.2bku.cn\/m\/wxpay\/notify_url_xj_api.php","sign":"999c643f16c5bd07e2d6a557ece2af85"}
+
+[2018-03-15 15:36:44]API3:
+array (
+  'code' => '400',
+  'message' => '商户号必填',
+  'isSuccess' => false,
+)
+
+[2018-03-15 16:39:43]API0:
+5324582095814153|||
+
+[2018-03-15 16:39:43]API1:
+agentOrderNo=QZ20180315152110316536&appId=10058951&customerInfo=Z7ZXw/N4alHz2hbdJG2dqbiQBWMQB9z3&cvn2=&mchId=&nonceStr=ol8e4KUdSZAbamv7knqAGEbMs5ffX0jp&notifyUrl=http://hk.2bku.cn/m/wxpay/notify_url_xj_api.php&key=092685c0a6e642b492b9f23a6f07509f
+
+[2018-03-15 16:39:43]API2:
+{"agentOrderNo":"QZ20180315152110316536","appId":"10058951","customerInfo":"Z7ZXw\/N4alHz2hbdJG2dqbiQBWMQB9z3","cvn2":null,"totalFee":10000,"mchId":null,"nonceStr":"ol8e4KUdSZAbamv7knqAGEbMs5ffX0jp","notifyUrl":"http:\/\/hk.2bku.cn\/m\/wxpay\/notify_url_xj_api.php","sign":"f4b74e1513838f851001492fa63d73d8"}
+
+[2018-03-15 16:39:43]API3:
+array (
+  'code' => '400',
+  'message' => '商户号必填',
+  'isSuccess' => false,
+)
+
+[2018-03-15 17:21:44]API0:
+5324582095814153|||
+
+[2018-03-15 17:21:44]API1:
+agentOrderNo=QZ20180315152110569836&appId=10058951&customerInfo=Z7ZXw/N4alHz2hbdJG2dqbiQBWMQB9z3&cvn2=&mchId=&nonceStr=n7cPrAA3Tbh49ktPdkhiLWQSPtws8hB3&notifyUrl=http://hk.2bku.cn/m/wxpay/notify_url_xj_api.php&key=092685c0a6e642b492b9f23a6f07509f
+
+[2018-03-15 17:21:44]API2:
+{"agentOrderNo":"QZ20180315152110569836","appId":"10058951","customerInfo":"Z7ZXw\/N4alHz2hbdJG2dqbiQBWMQB9z3","cvn2":null,"totalFee":10000,"mchId":null,"nonceStr":"n7cPrAA3Tbh49ktPdkhiLWQSPtws8hB3","notifyUrl":"http:\/\/hk.2bku.cn\/m\/wxpay\/notify_url_xj_api.php","sign":"8ec8f6b04c54ec0e08a72a31c3c965e3"}
+
+[2018-03-15 17:21:44]API3:
+array (
+  'code' => '400',
+  'message' => '商户号必填',
+  'isSuccess' => false,
+)
+
+[2018-03-15 17:21:54]API0:
+5324582095814153|||
+
+[2018-03-15 17:21:54]API1:
+agentOrderNo=QZ20180315152110570736&appId=10058951&customerInfo=Z7ZXw/N4alHz2hbdJG2dqbiQBWMQB9z3&cvn2=&mchId=&nonceStr=IYFuWPDDPpdRAPELF4qI2G8Dh1LNSmFw&notifyUrl=http://hk.2bku.cn/m/wxpay/notify_url_xj_api.php&key=092685c0a6e642b492b9f23a6f07509f
+
+[2018-03-15 17:21:54]API2:
+{"agentOrderNo":"QZ20180315152110570736","appId":"10058951","customerInfo":"Z7ZXw\/N4alHz2hbdJG2dqbiQBWMQB9z3","cvn2":null,"totalFee":10000,"mchId":null,"nonceStr":"IYFuWPDDPpdRAPELF4qI2G8Dh1LNSmFw","notifyUrl":"http:\/\/hk.2bku.cn\/m\/wxpay\/notify_url_xj_api.php","sign":"72ed3bb779d09eddf978b9ce721f8f9e"}
+
+[2018-03-15 17:21:54]API3:
+array (
+  'code' => '400',
+  'message' => '商户号必填',
+  'isSuccess' => false,
+)
+
+[2018-03-15 17:22:52]API0:
+5324582095814153|||
+
+[2018-03-15 17:22:52]API1:
+agentOrderNo=QZ20180315152110576636&appId=10058951&customerInfo=Z7ZXw/N4alHz2hbdJG2dqbiQBWMQB9z3&cvn2=&mchId=&nonceStr=5nyTg6xMb9Yig1mL3CyCk9AnyWJMnsWC&notifyUrl=http://hk.2bku.cn/m/wxpay/notify_url_xj_api.php&key=092685c0a6e642b492b9f23a6f07509f
+
+[2018-03-15 17:22:52]API2:
+{"agentOrderNo":"QZ20180315152110576636","appId":"10058951","customerInfo":"Z7ZXw\/N4alHz2hbdJG2dqbiQBWMQB9z3","cvn2":null,"totalFee":10000,"mchId":null,"nonceStr":"5nyTg6xMb9Yig1mL3CyCk9AnyWJMnsWC","notifyUrl":"http:\/\/hk.2bku.cn\/m\/wxpay\/notify_url_xj_api.php","sign":"259cbd417bb5bb1b2ad97f38c2fcd237"}
+
+[2018-03-15 17:22:52]API3:
+array (
+  'code' => '400',
+  'message' => '商户号必填',
+  'isSuccess' => false,
+)
+
+[2018-03-15 17:23:43]API0:
+5324582095814153|||
+
+[2018-03-15 17:23:43]API1:
+agentOrderNo=QZ20180315152110580136&appId=10058951&customerInfo=Z7ZXw/N4alHz2hbdJG2dqbiQBWMQB9z3&cvn2=&mchId=&nonceStr=8nne4pfJRg66LZATqMEaGPldGXPTyQ2S&notifyUrl=http://hk.2bku.cn/m/wxpay/notify_url_xj_api.php&key=092685c0a6e642b492b9f23a6f07509f
+
+[2018-03-15 17:23:43]API2:
+{"agentOrderNo":"QZ20180315152110580136","appId":"10058951","customerInfo":"Z7ZXw\/N4alHz2hbdJG2dqbiQBWMQB9z3","cvn2":null,"totalFee":11000,"mchId":null,"nonceStr":"8nne4pfJRg66LZATqMEaGPldGXPTyQ2S","notifyUrl":"http:\/\/hk.2bku.cn\/m\/wxpay\/notify_url_xj_api.php","sign":"d8ab1805f6141da744e7c3c5dd198a3e"}
+
+[2018-03-15 17:23:43]API3:
+array (
+  'code' => '400',
+  'message' => '商户号必填',
+  'isSuccess' => false,
+)
+
+[2018-03-15 17:43:13]API0:
+5324582095814153|||
+
+[2018-03-15 17:43:13]API1:
+agentOrderNo=QZ20180315152110698836&appId=10058951&customerInfo=Z7ZXw/N4alHz2hbdJG2dqbiQBWMQB9z3&cvn2=&mchId=&nonceStr=St5E0jEDX1qdYsTvCl9hTy722x6p3kLB&notifyUrl=http://hk.2bku.cn/m/wxpay/notify_url_xj_api.php&key=092685c0a6e642b492b9f23a6f07509f
+
+[2018-03-15 17:43:13]API2:
+{"agentOrderNo":"QZ20180315152110698836","appId":"10058951","customerInfo":"Z7ZXw\/N4alHz2hbdJG2dqbiQBWMQB9z3","cvn2":null,"totalFee":10000,"mchId":null,"nonceStr":"St5E0jEDX1qdYsTvCl9hTy722x6p3kLB","notifyUrl":"http:\/\/hk.2bku.cn\/m\/wxpay\/notify_url_xj_api.php","sign":"f046e40b1deef3e066c101b1b0761211"}
+
+[2018-03-15 17:43:13]API3:
+array (
+  'code' => '400',
+  'message' => '商户号必填',
+  'isSuccess' => false,
+)
+
+[2018-03-15 17:55:55]API0:
+5324582095814153|||
+
+[2018-03-15 17:55:55]API1:
+agentOrderNo=QZ20180315152110774936&appId=10058951&customerInfo=Z7ZXw/N4alHz2hbdJG2dqbiQBWMQB9z3&cvn2=&mchId=&nonceStr=1XvVMdEnM37bjQZgME7vuiOCqJSD1sc5&notifyUrl=http://hk.2bku.cn/m/wxpay/notify_url_xj_api.php&key=092685c0a6e642b492b9f23a6f07509f
+
+[2018-03-15 17:55:55]API2:
+{"agentOrderNo":"QZ20180315152110774936","appId":"10058951","customerInfo":"Z7ZXw\/N4alHz2hbdJG2dqbiQBWMQB9z3","cvn2":null,"totalFee":10000,"mchId":null,"nonceStr":"1XvVMdEnM37bjQZgME7vuiOCqJSD1sc5","notifyUrl":"http:\/\/hk.2bku.cn\/m\/wxpay\/notify_url_xj_api.php","sign":"e3ed8c0615de8a01b7888db7b21071fb"}
+
+[2018-03-15 17:55:55]API3:
+array (
+  'code' => '400',
+  'message' => '商户号必填',
+  'isSuccess' => false,
+)
+
+[2018-03-15 17:59:20]API0:
+6225780602751474|卞荣强|371325198604214013|13371353533
+
+[2018-03-15 17:59:20]API1:
+agentOrderNo=QZ20180315152110795012&appId=10058951&customerInfo=xB7pIN5dnK1iNTw6MmCj1CfZAvVV7XPcwZx2vQ3/hPXgk4X0X4m8nOanmwEQtgDm6h6DWvTlY6YmZbTODvTTUg==&cvn2=771&mchId=19003375&nonceStr=O3h5tuv70oNDxIrT4rMtqSdjVNRtQtIi&notifyUrl=http://hk.2bku.cn/m/wxpay/notify_url_xj_api.php&key=092685c0a6e642b492b9f23a6f07509f
+
+[2018-03-15 17:59:20]API2:
+{"agentOrderNo":"QZ20180315152110795012","appId":"10058951","customerInfo":"xB7pIN5dnK1iNTw6MmCj1CfZAvVV7XPcwZx2vQ3\/hPXgk4X0X4m8nOanmwEQtgDm6h6DWvTlY6YmZbTODvTTUg==","cvn2":"771","totalFee":12500,"mchId":"19003375","nonceStr":"O3h5tuv70oNDxIrT4rMtqSdjVNRtQtIi","notifyUrl":"http:\/\/hk.2bku.cn\/m\/wxpay\/notify_url_xj_api.php","sign":"a02ab635ca41a5686c93a2141514b908"}
+
+[2018-03-15 17:59:21]API3:
+array (
+  'isSuccess' => true,
+  'message' => '交易请求成功！',
+  'code' => '00',
+  'data' => 
+  array (
+    'orderNo' => '10001000302214',
+    'agentOrderNo' => 'QZ20180315152110795012',
+    'totalFee' => 12500,
+    'mchId' => '19003375',
+    'tradeTime' => '2018-03-15 17:59:20',
+    'state' => '0',
+    'stateMsg' => '支付中',
+  ),
+)
+
+[2018-03-15 19:16:38]API0:
+5324582095814153|江艳真|352227198111161317|13073983999
+
+[2018-03-15 19:16:38]API1:
+agentOrderNo=QZ20180315152111257314&appId=10058951&customerInfo=Z7ZXw/N4alHz2hbdJG2dqVgo6mb7gUzX0/QGXEqZbKo2UzT8/45RHQ5FCWuXE9CP7MyMASz4IqkZBhKsvLeiNw==&cvn2=607&mchId=19003675&nonceStr=VNakgiX4z8lbOdMRgwAEckPWsZ7V26Sz&notifyUrl=http://hk.2bku.cn/m/wxpay/notify_url_xj_api.php&key=092685c0a6e642b492b9f23a6f07509f
+
+[2018-03-15 19:16:38]API2:
+{"agentOrderNo":"QZ20180315152111257314","appId":"10058951","customerInfo":"Z7ZXw\/N4alHz2hbdJG2dqVgo6mb7gUzX0\/QGXEqZbKo2UzT8\/45RHQ5FCWuXE9CP7MyMASz4IqkZBhKsvLeiNw==","cvn2":"607","totalFee":12300,"mchId":"19003675","nonceStr":"VNakgiX4z8lbOdMRgwAEckPWsZ7V26Sz","notifyUrl":"http:\/\/hk.2bku.cn\/m\/wxpay\/notify_url_xj_api.php","sign":"48a2d4fadd9da4b7b730237a43d32583"}
+
+[2018-03-15 19:16:41]API3:
+array (
+  'isSuccess' => true,
+  'message' => '交易请求成功！',
+  'code' => '00',
+  'data' => 
+  array (
+    'orderNo' => '10001000302216',
+    'agentOrderNo' => 'QZ20180315152111257314',
+    'totalFee' => 12300,
+    'mchId' => '19003675',
+    'tradeTime' => '2018-03-15 19:16:38',
+    'state' => '0',
+    'stateMsg' => '支付中',
+  ),
+)
+
+[2018-03-15 21:10:03]API0:
+5324582095814153|江艳真|352227198111161317|13073983999
+
+[2018-03-15 21:10:03]API1:
+agentOrderNo=QZ20180315152111938814&appId=10058951&customerInfo=Z7ZXw/N4alHz2hbdJG2dqVgo6mb7gUzX0/QGXEqZbKo2UzT8/45RHQ5FCWuXE9CP7MyMASz4IqkZBhKsvLeiNw==&cvn2=607&mchId=19003675&nonceStr=JE8LtTAwzdTZGlPHEsh8rww0dYCQwY5w&notifyUrl=http://hk.2bku.cn/m/wxpay/notify_url_xj_api.php&key=092685c0a6e642b492b9f23a6f07509f
+
+[2018-03-15 21:10:03]API2:
+{"agentOrderNo":"QZ20180315152111938814","appId":"10058951","customerInfo":"Z7ZXw\/N4alHz2hbdJG2dqVgo6mb7gUzX0\/QGXEqZbKo2UzT8\/45RHQ5FCWuXE9CP7MyMASz4IqkZBhKsvLeiNw==","cvn2":"607","totalFee":10000,"mchId":"19003675","nonceStr":"JE8LtTAwzdTZGlPHEsh8rww0dYCQwY5w","notifyUrl":"http:\/\/hk.2bku.cn\/m\/wxpay\/notify_url_xj_api.php","sign":"d8d33e8fcb9fb2c03a262e1365728fa6"}
+
+[2018-03-15 21:10:05]API3:
+array (
+  'isSuccess' => true,
+  'message' => '交易请求成功！',
+  'code' => '00',
+  'data' => 
+  array (
+    'orderNo' => '10001000302226',
+    'agentOrderNo' => 'QZ20180315152111938814',
+    'totalFee' => 10000,
+    'mchId' => '19003675',
+    'tradeTime' => '2018-03-15 21:10:03',
+    'state' => '0',
+    'stateMsg' => '支付中',
+  ),
+)
+

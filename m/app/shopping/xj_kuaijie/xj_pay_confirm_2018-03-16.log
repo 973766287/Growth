@@ -1,0 +1,68 @@
+[2018-03-16 09:34:01]API2:
+{"orderNo":"10001000302227","smsCode":"505125"}
+
+[2018-03-16 09:34:03]API3:
+array (
+  'code' => '77',
+  'message' => '银行卡未开通认证支付[6100060]',
+  'isSuccess' => false,
+)
+
+[2018-03-16 09:34:05]API3:
+array (
+  'isSuccess' => true,
+  'message' => '交易请求成功！',
+  'code' => '00',
+  'data' => 
+  array (
+    'orderNo' => '10001000302227',
+    'agentOrderNo' => 'QZ20180316152116401214',
+    'result' => '银行卡未开通认证支付[6100060]',
+    'totalFee' => 10000,
+    'mchId' => '19003675',
+    'tradeTime' => '2018-03-16 09:33:39',
+    'state' => '2',
+    'stateMsg' => '支付完成',
+  ),
+)
+
+[2018-03-16 21:47:15]API2:
+{"orderNo":"10001000302292","smsCode":"115442"}
+
+[2018-03-16 21:47:16]API3:
+array (
+  'isSuccess' => true,
+  'message' => '交易请求成功！',
+  'code' => '00',
+  'data' => 
+  array (
+    'orderNo' => '10001000302292',
+    'agentOrderNo' => 'QZ2018031615212079903',
+    'totalFee' => 30000,
+    'mchId' => '19003678',
+    'tradeTime' => '2018-03-16 21:47:00',
+    'state' => '2',
+    'stateMsg' => '支付完成',
+  ),
+)
+
+[2018-03-16 23:31:33]API2:
+{"orderNo":"10001000302293","smsCode":"313217"}
+
+[2018-03-16 23:31:35]API3:
+array (
+  'isSuccess' => true,
+  'message' => '交易请求成功！',
+  'code' => '00',
+  'data' => 
+  array (
+    'orderNo' => '10001000302293',
+    'agentOrderNo' => 'QZ2018031615212142493',
+    'totalFee' => 34000,
+    'mchId' => '19003678',
+    'tradeTime' => '2018-03-16 23:31:10',
+    'state' => '2',
+    'stateMsg' => '支付完成',
+  ),
+)
+
