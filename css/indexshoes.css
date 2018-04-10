@@ -1,0 +1,49 @@
+.shmain{ width:100%; background:url(../theme/images/bg02.jpg) repeat}
+.shmainbox{ width:1020px; margin:0px auto; background-color:#FFF; padding-left:5px; padding-right:5px;}
+.footer{ background:url(../theme/images/bg02.jpg) repeat}
+.shbanner{ }
+.shbanner li{ float:left; width:338px; padding:1px;}
+.shcateitem{}
+.shcateitem .shcateitemL{ width:200px; float:left}
+.shcateitem .shcateitemR{ width:810px; float:right; min-height:300px}
+.shcateitemL .cate{ width:200px;  /*overflow:auto; overflow-x:hidden;*/ border:1px solid #ccc;}
+.shcateitemL .cate li{ height:55px; padding:2px; background:url(../theme/images/xie-nav.jpg) center top no-repeat; position:relative; text-align:center}
+.shcateitemL .cate li a{ display:block; font-size:14px; line-height:55px; height:55px;_height:55px;}
+.shcateitemL .cate li .subcatel{ display:none; position:absolute; left:199px; top:0px; width:512px; z-index:999; background-color:#FFFFFF; min-height:150px; border:1px solid #55311b; }
+.shcateitemL .cate li dl{ width:312px; float:left;padding:10px;}
+.shcateitemL .cate li .subcater{ width:170px; padding-left:10px; float:right; background-color:#FBF7F2; min-height:200px}
+.shcateitemL .cate li .subcater p{ font-size:14px; color:#743400; font-weight:bold; text-align:left; line-height:26px}
+.shcateitemL .cate li dl dd{ height:24px; width:104px;  float:left; line-height:24px; text-align:left}
+.shcateitemL .cate li dl dd a{ padding-left:10px;color:#333; font-size:12px; line-height:28px; height:28px;}
+.shcateitemL .cate li dl dt{ height:24px; line-height:24px; text-align:left; font-size:14px; font-weight:bold; color:#743400; border-bottom:1px dotted #55311b}
+.shcateitemL .cate li:hover{background:url(../theme/images/xie-nav.jpg) center bottom no-repeat;}
+.shcateitemL .cate li:hover a{ color:#FFF}
+.shcateitemL .cate li:hover dd a{ color:#333}
+.shcateitemL .cate li:hover .subcatel{ display:block;}
+.shcateitemL .cate li dl dd a:hover{ color:#D90000}
+.shcateitemL .cate .title{ width:200px; height:55px; background:url(../theme/images/shoes-top.jpg) left top no-repeat}
+.shcateitemR li{ width:182.5px; height:242px; overflow:hidden; float:left; margin:10px }
+.shcateitemR li .imgbox{ width:182.5px; height:182px; text-align:center; overflow:hidden;}
+
+.shads{ padding-top:15px;}
+.shads p{ margin-bottom:10px;}
+.shhotgoods{ margin-top:10px;border:1px solid #ccc; width:200px;}
+.shhotgoods .title{width:200px; height:42px; line-height:42px; text-align:center; background:url(../theme/images/hot-nav.jpg) left top no-repeat; font-size:14px; font-weight:bold; color:#FFF}
+.shhotgoods li{ height:40px; line-height:20px; position:relative; border-bottom:1px dotted #ccc; overflow:hidden}
+.shhotgoods li span{ width:18px; height:18px; background-color:#CC3366; position:absolute; left:3px; top:10px; text-align:center; color:#FFF}
+.shhotgoods li a{ width:175px; height:40px; line-height:20px; position:absolute; left:25px; top:0px;}
+.shcateitemR .title{ height:40px; line-height:40px; text-align:left; font-size:14px; font-weight:bold; color:#512E18}
+
+.shbrand .title{ height:45px; background:url(../theme/images/x_t.jpg) center center no-repeat}
+.shbrand li{ }
+.shbrand .shbranditem{ padding-bottom:10px;}
+.shbrand .shbranditemL{ width:300px; height:584px; overflow:hidden; float:left}
+.shbrand .shbranditemL img{ max-height:100%; max-width:100%; margin-bottom:10px;}
+.shbrand .shbranditemR{ width:711px; float:right}
+.shbrand .shbranditemR li{ width:227px; height:287px; float:left; margin:5px; margin-top:0px;}
+
+.shyoulike .title{ height:45px; background:url(../theme/images/x_t2.jpg) center center no-repeat}
+.shyoulike li{ width:235px; margin:10px; float:left; height:235px; overflow:hidden}
+
+
+

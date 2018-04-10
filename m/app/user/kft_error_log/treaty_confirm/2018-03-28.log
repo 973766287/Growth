@@ -1,0 +1,92 @@
+[2018-03-28 14:03:10] request message:
+array (
+  'service' => 'gbp_confirm_treaty_collect_apply',
+  'reqNo' => 'KFT0987654321',
+  'version' => '1.0.0-IEST',
+  'charset' => 'utf-8',
+  'language' => 'zh_CN',
+  'callerIp' => '127.0.0.1',
+  'merchantId' => '2018032100095306',
+  'productNo' => 'GBPTM004',
+  'orderNo' => 'AP1522218665',
+  'smsSeq' => '2018032800158766',
+  'holderName' => '樊鑫',
+  'authCode' => '123456',
+  'bankCardNo' => '7227003641630247724',
+  'custCardValidDate' => '0323',
+  'custCardCvv2' => '251',
+)
+
+[2018-03-28 14:03:10] response message:
+'{"reqNo":"KFT0987654321","errorCode":"20101","failureDetails":"协议代扣申请信息不存在","orderNo":"AP1522218665","status":2}'
+
+<------------------------------------------------------------------------------------------------------------->
+[2018-03-28 14:03:21] request message:
+array (
+  'service' => 'gbp_confirm_treaty_collect_apply',
+  'reqNo' => 'KFT0987654321',
+  'version' => '1.0.0-IEST',
+  'charset' => 'utf-8',
+  'language' => 'zh_CN',
+  'callerIp' => '127.0.0.1',
+  'merchantId' => '2018032100095306',
+  'productNo' => 'GBPTM004',
+  'orderNo' => '1522218796',
+  'smsSeq' => '2018032800158768',
+  'holderName' => '樊鑫',
+  'authCode' => '123456',
+  'bankCardNo' => '7227003641630247724',
+  'custCardValidDate' => '0323',
+  'custCardCvv2' => '251',
+)
+
+[2018-03-28 14:03:21] response message:
+'{"reqNo":"KFT0987654321","errorCode":"20101","failureDetails":"协议代扣申请信息不存在","orderNo":"1522218796","status":2}'
+
+<------------------------------------------------------------------------------------------------------------->
+[2018-03-28 14:03:29] request message:
+array (
+  'service' => 'gbp_confirm_treaty_collect_apply',
+  'reqNo' => 'KFT0987654321',
+  'version' => '1.0.0-IEST',
+  'charset' => 'utf-8',
+  'language' => 'zh_CN',
+  'callerIp' => '127.0.0.1',
+  'merchantId' => '2018032100095306',
+  'productNo' => 'GBPTM004',
+  'orderNo' => '1522219639',
+  'smsSeq' => '2018032800158780',
+  'holderName' => '樊鑫',
+  'authCode' => '123456',
+  'bankCardNo' => '7227003641630247724',
+  'custCardValidDate' => '0323',
+  'custCardCvv2' => '251',
+)
+
+[2018-03-28 14:03:30] response message:
+'{"reqNo":"KFT0987654321","orderNo":"1522219639","status":1,"treatyId":"21000000196762"}'
+
+<------------------------------------------------------------------------------------------------------------->
+[2018-03-28 14:03:35] request message:
+array (
+  'service' => 'gbp_confirm_treaty_collect_apply',
+  'reqNo' => 'KFT0987654321',
+  'version' => '1.0.0-IEST',
+  'charset' => 'utf-8',
+  'language' => 'zh_CN',
+  'callerIp' => '127.0.0.1',
+  'merchantId' => '2018032100095306',
+  'productNo' => 'GBPTM004',
+  'orderNo' => '1522219639',
+  'smsSeq' => '2018032800158780',
+  'holderName' => '樊鑫',
+  'authCode' => '123456',
+  'bankCardNo' => '7227003641630247724',
+  'custCardValidDate' => '0323',
+  'custCardCvv2' => '251',
+)
+
+[2018-03-28 14:03:35] response message:
+'{"reqNo":"KFT0987654321","errorCode":"20101","failureDetails":"协议代扣申请信息已存在，请勿重复提交","orderNo":"1522219639","status":2}'
+
+<------------------------------------------------------------------------------------------------------------->

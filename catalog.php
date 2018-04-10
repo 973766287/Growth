@@ -1,0 +1,9 @@
+<?php
+
+require_once('load.php');
+//echo '<script>alert("网站升级中");location.href="index.php";</script>';exit;
+$cid = isset($_GET['cid'])&&!empty($_GET['cid']) ? intval($_GET['cid']) : 0;
+$page = isset($_GET['page'])&&!empty($_GET['page']) ? intval($_GET['page']) : 0;
+
+$app->action('catalog','index',$cid,$page,$_GET);
+?>

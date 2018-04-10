@@ -1,0 +1,25 @@
+.fzmain{ width:100%;  }
+.footer{ background-color:#fff}
+.catenav{ width:100%; height:auto; padding-bottom:30px; background:url(../theme/images/smtopbg.jpg) center bottom repeat-x #F6F6F6}
+.catenavbox{ width:1020px; margin:0px auto}
+.catenavbox .smlogo{ width:270px; float:left; padding-top:15px}
+.catenavbox .smcatenav{ width:750px; float:right; padding-top:18px}
+.catenavbox .smcatenav li{ width:365px; margin:5px;float:left}
+.catenavbox .smcatenav li .title{ color:#7A7FB7; height:28px; line-height:28px; font-size:16px; font-weight:bold; border-bottom:1px dotted #7A7FB7}
+.catenavbox .smcatenav li .title a{color:#7A7FB7;}
+.catenavbox .smcatenav li .subsubcate a{ font-size:14px; margin-right:5px; padding-top:3px; padding-bottom:3px;}
+
+.smmain{ width:1020px; margin:0px auto; text-align:center;box-shadow: 0 50px 10px #888}
+.smmainbox{ width:1020px; padding:5px 0px 5px 0px; margin:0px auto; background-color:#FFF;}
+.smmainmain{background:url(../theme/images/bg1.jpg) center top no-repeat #fff;}
+
+.fzgoodsitem{ padding-top:10px; padding-bottom:10px; width:1020px; margin:0px auto;}
+.fzgoodsitem .title{ height:40px; line-height:40px; border-bottom:2px solid #E1E1E1; margin-bottom:10px;}
+.fzgoodsitem .title span{ display:block; width:180px; height:40px; line-height:40px; text-align:left; float:left; font-size:18px;text-shadow: 1px 0 0 #FE0000;}
+.fzgoodsitem .title .navl{ width:810px; float:right; height:40px; line-height:40px; text-align:right; padding-right:10px;}
+.fzgoodsitem .title div a{ padding-right:8px; padding-left:4px; background:url(../theme/images/line.png) right center no-repeat}
+
+.fzgoodsitem .ads{ padding-bottom:10px}
+.fzgoodsitem li{ width:241px; height:301px; overflow:hidden; float:left; margin-left:7px; margin-right:7px; margin-bottom:10px; text-align:center}
+.fzgoodsitem li .imgbox{ width:241px; height:241px; overflow:hidden; text-align:center}
+.fzgoodsitem li:hover{border-color:#ddd;box-shadow:0 0 5px #ddd;overflow:visible;}

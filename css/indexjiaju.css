@@ -1,0 +1,37 @@
+.jjmain{ width:100%; background:url(../theme/images/13367917301336791730.jpg) center top no-repeat #52596b;background-attachment: fixed; }
+.jjmainbox{ width:1020px; margin:0px auto; padding:5px; padding-bottom:0px;background-color:#FFF}
+.footer{ background-color:#52596b}
+.jjbanner{ width:1020px; margin:0px auto}
+
+.mzbanner{ width:1020px; margin:0px auto; padding-top:5px}
+.mzbanner .cate{ width:200px; height:362px;  /*overflow:auto; overflow-x:hidden;*/ border:1px solid #ccc; float:left}
+.mzbanner .cate li{ height:55px; padding:2px; background:url(../theme/images/jj-nav.jpg) center top no-repeat; position:relative; text-align:center}
+.mzbanner .cate li a{ display:block; font-size:14px; line-height:55px; height:55px;_height:55px;}
+.mzbanner .cate li .subcatel{ display:none; position:absolute; left:199px; top:0px; width:512px; z-index:999; background-color:#FFFFFF; min-height:150px; border:1px solid #55311b; }
+.mzbanner .cate li dl{ width:312px; float:left;padding:10px;}
+.mzbanner .cate li .subcater{ width:170px; padding-left:10px; float:right; background-color:#FBF7F2; min-height:200px}
+.mzbanner .cate li .subcater p{ font-size:14px; color:#743400; font-weight:bold; text-align:left; line-height:26px}
+.mzbanner .cate li dl dd{ height:24px; width:104px;  float:left; line-height:24px; text-align:left}
+.mzbanner .cate li dl dd a{ padding-left:10px;color:#333; font-size:12px; line-height:28px; height:28px;}
+.mzbanner .cate li dl dt{ height:24px; line-height:24px; text-align:left; font-size:14px; font-weight:bold; color:#743400; border-bottom:1px dotted #55311b}
+.mzbanner .cate li:hover{background:url(../theme/images/jj-nav.jpg) center bottom no-repeat;}
+.mzbanner .cate li:hover a{ color:#FFF}
+.mzbanner .cate li:hover dd a{ color:#333}
+.mzbanner .cate li:hover .subcatel{ display:block;}
+.mzbanner .cate li dl dd a:hover{ color:#D90000}
+.mzbanner .cate .title{ width:200px; height:55px; background:url(../theme/images/jj-top.jpg) left top no-repeat}
+
+.mzbanner .mzbannerR{ width:801px; float:right; overflow:hidden}
+.mzbanner .mzbannerR .shads{ padding-top:10px;}
+
+.jjitem{ padding-top:10px;}
+.jjitem .title{ height:40px; line-height:40px; margin-bottom:10px; text-align:center}
+.jjitem .title span{ display:block; width:180px; height:40px; line-height:40px; font-size:26px; margin:0px auto}
+.jjitem .title .navl{ width:810px; float:right; height:40px; line-height:40px; text-align:right; padding-right:10px;}
+.jjitem .title div a{ padding-right:8px; padding-left:4px; background:url(../theme/images/line.png) right center no-repeat}
+.jjitem li{ width:320px; margin:10px; float:left; text-align:center; overflow:hidden}
+.jjitem li:hover,.hotgoods li:hover{border-color:#ddd;box-shadow:0 0 5px #ddd;overflow:visible;}
+
+.hotgoods{ padding-bottom:10px;}
+.hotgoods li{ width:235px; height:295px; overflow:hidden; float:left; margin:10px;}
+.hotgoods li .imgbox{ width:235px; height:235px; overflow:hidden; text-align:center}

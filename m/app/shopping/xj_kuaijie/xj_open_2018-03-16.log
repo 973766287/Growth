@@ -1,0 +1,13 @@
+[2018-03-16 09:34:03]API1:
+appId=10058951&cardNumber=5324582095814153&cvn=607&expireDate=1119&mchId=19003675&name=江艳真&nonceStr=PplgcPdBtuVMxpnvahYdxgIEdTSv7e5N&tel=13073983999&key=092685c0a6e642b492b9f23a6f07509f
+
+[2018-03-16 09:34:03]API2:
+{"appId":"10058951","cardNumber":"5324582095814153","cvn":"607","expireDate":"1119","mchId":"19003675","name":"\u6c5f\u8273\u771f","nonceStr":"PplgcPdBtuVMxpnvahYdxgIEdTSv7e5N","tel":"13073983999","sign":"ebbfbd9ce8eff4af68b0732d5da24085"}
+
+[2018-03-16 09:34:04]API3:
+array (
+  'isSuccess' => true,
+  'message' => '开通成功！',
+  'code' => '00',
+)
+

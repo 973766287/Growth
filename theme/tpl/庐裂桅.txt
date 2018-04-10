@@ -1,0 +1,25 @@
+
+主键ID 供应商 订单ID     订单状态       配送状态        支付状态   是否打印
+oid     uid   ORDER_ID  order_status shipping_status   pay_status  is_print
+
+订单操作记录
+order_action_log
+主键ID   订单ID  操作人ID  状态 类型  描述  操作时间  
+
+状态类型
+
+订单状态：0=》已经下了订单 1=》已经取消订单 2=》退货订单 3=》无效订单 
+
+配送状态：0=》没有发货 1=》 已经发出 2=》退货 3=》已经收到 4=》换货
+ 
+支付状态：0=》没有支付 1=》已经支付 2=》支付但退款 
+
+gz_goods_order
+suppliers_id 供应商ID
+
+gz_goods_order_status
+shop_id=》suppliers_id
+
+goods_amount  offprice
+
+total

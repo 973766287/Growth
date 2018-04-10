@@ -1,0 +1,24 @@
+@charset "utf-8";
+/* CSS Document */
+.boBor:after,.toBor:before{position:absolute;right:0;left:0;height:1px;background:#ffffff;content:""}
+.toBor:before{top:0}
+.boBor:after{bottom:0}
+.leBor:before,.riBor:after{position:absolute;top:0;bottom:0;width:1px;background:#ffffff;content:""}
+.leBor:before{left:0}
+.riBor:after{right:0}
+.trblBor:after{position:absolute;top:0;left:0;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;width:100%;height:100%;border:1px solid #ffffff;content:"";point-events:none}
+@media (min--moz-device-pixel-ratio:1.5),(-webkit-min-device-pixel-ratio:1.5),(min-device-pixel-ratio:1.5),(min-resolution:144dpi),(min-resolution:1.5dppx),(-ms-high-contrast:active),(-ms-high-contrast:none){.boBor:after,.toBor:before{-webkit-transform:scaleY(.5);-o-transform:scaleY(.5);transform:scaleY(.5);-ms-transform:scaleY(.5)}
+.leBor:before,.riBor:after{-webkit-transform:scaleX(.5);-o-transform:scaleX(.5);transform:scaleX(.5);-ms-transform:scaleX(.5)}
+.trblBor:after{width:200%;height:200%;-webkit-transform:scale(.5);-o-transform:scale(.5);transform:scale(.5);-ms-transform:scale(.5)}
+.leBor:before,.toBor:before,.trblBor:after{-webkit-transform-origin:0 0;-moz-transform-origin:0 0;-o-transform-origin:0 0;transform-origin:0 0;-ms-transform-origin:0 0}
+.boBor:after,.riBor:after{-webkit-transform-origin:100% 100%;-moz-transform-origin:100% 100%;-o-transform-origin:100% 100%;transform-origin:100% 100%;-ms-transform-origin:100% 100%}
+}
+@media (-webkit-device-pixel-ratio:1.5){.boBor:after,.toBor:before{-webkit-transform:scaleY(.6666);-o-transform:scaleY(.6666);transform:scaleY(.6666);-ms-transform:scaleY(.6666)}
+.leBor:before,.riBor:after{-webkit-transform:scaleX(.6666);-o-transform:scaleX(.6666);transform:scaleX(.6666);-ms-transform:scaleX(.6666)}
+.trblBor:after{width:150%;height:150%;-webkit-transform:scale(.6666);-o-transform:scale(.6666);transform:scale(.6666);-ms-transform:scale(.6666)}
+}
+@media (-webkit-device-pixel-ratio:3){.boBor:after,.toBor:before{-webkit-transform:scaleY(.3333);-o-transform:scaleY(.3333);transform:scaleY(.3333);-ms-transform:scaleY(.3333)}
+.leBor:before,.riBor:after{-webkit-transform:scaleX(.3333);-o-transform:scaleX(.3333);transform:scaleX(.3333);-ms-transform:scaleX(.3333)}
+.trblBor:after{width:300%;height:300%;-webkit-transform:scale(.3333);-o-transform:scale(.3333);transform:scale(.3333);-ms-transform:scale(.3333)}
+}
+

@@ -1,0 +1,39 @@
+[2018-03-22 08:50:42]API1:
+address=南京市&appId=10058951&cityCode=320100&customerInfo=c+DMCEz1Ebu1dwcKfKbSUrpHWwXHt4tGKBvMCpi5hjzi4l7m0wxrFjsm/6FHa3Ab9XO3R3BDxUxz+Ty/gay7KA==&d0fee=200&fee0=5.5&nonceStr=EwnIxL32M4QPOR6PwKUEpUuhoAGu4h2T&pointsType=0&provinceCode=320000&key=092685c0a6e642b492b9f23a6f07509f
+
+[2018-03-22 08:50:42]API2:
+{"address":"\u5357\u4eac\u5e02","appId":"10058951","cityCode":"320100","customerInfo":"c+DMCEz1Ebu1dwcKfKbSUrpHWwXHt4tGKBvMCpi5hjzi4l7m0wxrFjsm\/6FHa3Ab9XO3R3BDxUxz+Ty\/gay7KA==","d0fee":200,"fee0":5.5,"nonceStr":"EwnIxL32M4QPOR6PwKUEpUuhoAGu4h2T","pointsType":0,"provinceCode":"320000","sign":"618be6ac30229d0e21aaab5c282ecf14"}
+
+[2018-03-22 08:50:42]API3:
+array (
+  'isSuccess' => false,
+  'message' => '此卡已经进件',
+  'code' => '00',
+)
+
+[2018-03-22 08:50:52]API1:
+address=南京市&appId=10058951&cityCode=320100&customerInfo=c+DMCEz1Ebu1dwcKfKbSUrpHWwXHt4tGKBvMCpi5hjzi4l7m0wxrFjsm/6FHa3Ab9XO3R3BDxUxz+Ty/gay7KA==&d0fee=200&fee0=5.5&nonceStr=ivcmKMZKe5w32NxmfQe3281AHtLgb7qK&pointsType=0&provinceCode=320000&key=092685c0a6e642b492b9f23a6f07509f
+
+[2018-03-22 08:50:52]API2:
+{"address":"\u5357\u4eac\u5e02","appId":"10058951","cityCode":"320100","customerInfo":"c+DMCEz1Ebu1dwcKfKbSUrpHWwXHt4tGKBvMCpi5hjzi4l7m0wxrFjsm\/6FHa3Ab9XO3R3BDxUxz+Ty\/gay7KA==","d0fee":200,"fee0":5.5,"nonceStr":"ivcmKMZKe5w32NxmfQe3281AHtLgb7qK","pointsType":0,"provinceCode":"320000","sign":"9f93375fd8e87cae2b4a0cd8c1a0e0f0"}
+
+[2018-03-22 08:50:52]API3:
+array (
+  'isSuccess' => false,
+  'message' => '此卡已经进件',
+  'code' => '00',
+)
+
+[2018-03-22 10:37:14]API1:
+address=南京市&appId=10058951&cityCode=320100&customerInfo=c+DMCEz1Ebu1dwcKfKbSUrpHWwXHt4tGKBvMCpi5hjzi4l7m0wxrFjsm/6FHa3Ab9XO3R3BDxUxz+Ty/gay7KA==&d0fee=200&fee0=5.5&nonceStr=Q4OgXC77G8haV5KP2OJSNw88eMRZQOAe&pointsType=0&provinceCode=320000&key=092685c0a6e642b492b9f23a6f07509f
+
+[2018-03-22 10:37:14]API2:
+{"address":"\u5357\u4eac\u5e02","appId":"10058951","cityCode":"320100","customerInfo":"c+DMCEz1Ebu1dwcKfKbSUrpHWwXHt4tGKBvMCpi5hjzi4l7m0wxrFjsm\/6FHa3Ab9XO3R3BDxUxz+Ty\/gay7KA==","d0fee":200,"fee0":5.5,"nonceStr":"Q4OgXC77G8haV5KP2OJSNw88eMRZQOAe","pointsType":0,"provinceCode":"320000","sign":"622869a46b321248addc17652dbe7643"}
+
+[2018-03-22 10:37:15]API3:
+array (
+  'isSuccess' => false,
+  'message' => '此卡已经进件',
+  'code' => '00',
+)
+

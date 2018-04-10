@@ -1,0 +1,15 @@
+.topimg{ width:100%; text-align:center; position:relative; z-index:1}
+.topimg img{ max-height:100%; max-width:100%;}
+.topimgbox{ width:1020px; margin:0px auto; position:relative; height:52px; line-height:52px; z-index:2}
+.topimg .title{ position:absolute; right:50px; top:0px; height:52px; line-height:52px; color:#fe0000; font-size:44px; font-weight:bold;text-shadow: 1px 0 0 #fff; z-index:3}
+.topimgbox .titles{ background:url(../theme/images/s-limitIng-bg.png) left center no-repeat; width:210px; position:absolute; left:300px; top:0px; height:52px; line-height:52px; color:#fe0000; font-size:22px; font-weight:bold;text-shadow: 1px 0 0 #fff; text-align:left; padding-left:210px;}
+.topimgbox .titles span{}
+.topmain{ width:100%; text-align:center;}
+.topmainbox{ width:1020px; margin:0px auto;box-shadow: 0 50px 10px #fafafa;background-color:#FFF}
+
+.items{ padding-bottom:10px}
+.items .tis{ height:63px; line-height:63px; background:url(../theme/images/topline.jpg) left center no-repeat; text-align:left}
+.items .tis span{ font-size:20px; padding-left:30px;text-shadow: 1px 0 0 #FC4283;}
+.items li{ width:320px; height:380px; overflow:hidden; text-align:center; margin:10px; float:left}
+.items li .imgbox{ width:320px; height:320px;  overflow:hidden}
+.items li:hover{border-color:#ddd;box-shadow:0 0 5px #ddd;overflow:visible;}

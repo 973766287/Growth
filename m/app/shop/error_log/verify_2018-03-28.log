@@ -1,0 +1,414 @@
+[2018-03-28 17:03:57] request message:
+array (
+  'service' => 'gbp_threeMessage_verification',
+  'reqNo' => 'KFT0987654321',
+  'version' => '1.0.0-IEST',
+  'charset' => 'utf-8',
+  'language' => 'zh_CN',
+  'callerIp' => '127.0.0.1',
+  'merchantId' => '2018032100095306',
+  'productNo' => 'GBPTM001',
+  'orderNo' => 'vrf1522229997',
+  'custBankNo' => '3085840',
+  'custName' => '樊鑫',
+  'custBankAccountNo' => '7227003641630247724',
+  'custAccountCreditOrDebit' => '2',
+  'custCertificationType' => '0',
+  'custID' => '51390219960714105X',
+)
+
+[2018-03-28 17:03:57] response message:
+'{"reqNo":"KFT0987654321","bankReturnTime":"","errorCode":"KFTSYS_CHANNEL_00009999","failureDetails":"无合适的路由处理当前交易","orderNo":"vrf1522229997","status":"5"}'
+
+<------------------------------------------------------------------------------------------------------------->
+[2018-03-28 17:03:51] request message:
+array (
+  'service' => 'gbp_threeMessage_verification',
+  'reqNo' => 'KFT0987654321',
+  'version' => '1.0.0-IEST',
+  'charset' => 'utf-8',
+  'language' => 'zh_CN',
+  'callerIp' => '127.0.0.1',
+  'merchantId' => '2018032100095306',
+  'productNo' => 'GBPTM001',
+  'orderNo' => 'vrf1522230351',
+  'custBankNo' => '1051000',
+  'custName' => '樊鑫',
+  'custBankAccountNo' => '7227003641630247724',
+  'custAccountCreditOrDebit' => '2',
+  'custCertificationType' => '0',
+  'custID' => '51390219960714105X',
+)
+
+[2018-03-28 17:03:51] response message:
+'{"reqNo":"KFT0987654321","bankReturnTime":"20180328174551","errorCode":"","failureDetails":"","orderNo":"vrf1522230351","status":"1"}'
+
+<------------------------------------------------------------------------------------------------------------->
+[2018-03-28 17:03:14] request message:
+array (
+  'service' => 'gbp_threeMessage_verification',
+  'reqNo' => 'KFT0987654321',
+  'version' => '1.0.0-IEST',
+  'charset' => 'utf-8',
+  'language' => 'zh_CN',
+  'callerIp' => '127.0.0.1',
+  'merchantId' => '2018032100095306',
+  'productNo' => 'GBPTM001',
+  'orderNo' => 'vrf1522230434',
+  'custBankNo' => '1051000',
+  'custName' => '樊鑫',
+  'custBankAccountNo' => '7227003641630247724',
+  'custAccountCreditOrDebit' => '2',
+  'custCertificationType' => '0',
+  'custID' => '51390219960714105X',
+)
+
+[2018-03-28 17:03:14] response message:
+'{"reqNo":"KFT0987654321","bankReturnTime":"","errorCode":"","failureDetails":"","orderNo":"vrf1522230434","status":"1"}'
+
+<------------------------------------------------------------------------------------------------------------->
+[2018-03-28 18:03:48] request message:
+array (
+  'service' => 'gbp_threeMessage_verification',
+  'reqNo' => 'KFT0987654321',
+  'version' => '1.0.0-IEST',
+  'charset' => 'utf-8',
+  'language' => 'zh_CN',
+  'callerIp' => '127.0.0.1',
+  'merchantId' => '2018032100095306',
+  'productNo' => 'GBPTM001',
+  'orderNo' => 'vrf1522231428',
+  'custBankNo' => '1051000',
+  'custName' => '樊鑫',
+  'custBankAccountNo' => '7227003641630247724',
+  'custAccountCreditOrDebit' => '2',
+  'custCertificationType' => '0',
+  'custID' => '51390219960714105X',
+)
+
+[2018-03-28 18:03:49] response message:
+'{"reqNo":"KFT0987654321","bankReturnTime":"","errorCode":"","failureDetails":"","orderNo":"vrf1522231428","status":"1"}'
+
+<------------------------------------------------------------------------------------------------------------->
+[2018-03-28 18:03:49] request message:
+array (
+  'service' => 'gbp_threeMessage_verification',
+  'reqNo' => 'KFT0987654321',
+  'version' => '1.0.0-IEST',
+  'charset' => 'utf-8',
+  'language' => 'zh_CN',
+  'callerIp' => '127.0.0.1',
+  'merchantId' => '2018032100095306',
+  'productNo' => 'GBPTM001',
+  'orderNo' => 'vrf1522231429',
+  'custBankNo' => '1051000',
+  'custName' => '樊鑫',
+  'custBankAccountNo' => '7227003641630247724',
+  'custAccountCreditOrDebit' => '2',
+  'custCertificationType' => '0',
+  'custID' => '51390219960714105X',
+)
+
+[2018-03-28 18:03:49] response message:
+'{"reqNo":"KFT0987654321","bankReturnTime":"","errorCode":"","failureDetails":"","orderNo":"vrf1522231429","status":"1"}'
+
+<------------------------------------------------------------------------------------------------------------->
+[2018-03-28 18:03:29] request message:
+array (
+  'service' => 'gbp_threeMessage_verification',
+  'reqNo' => 'KFT0987654321',
+  'version' => '1.0.0-IEST',
+  'charset' => 'utf-8',
+  'language' => 'zh_CN',
+  'callerIp' => '127.0.0.1',
+  'merchantId' => '2018032100095306',
+  'productNo' => 'GBPTM001',
+  'orderNo' => 'vrf1522231529',
+  'custBankNo' => '1051000',
+  'custName' => '樊鑫',
+  'custBankAccountNo' => '7227003641630247724',
+  'custAccountCreditOrDebit' => '2',
+  'custCertificationType' => '0',
+  'custID' => '51390219960714105X',
+)
+
+[2018-03-28 18:03:29] response message:
+'{"reqNo":"KFT0987654321","bankReturnTime":"","errorCode":"","failureDetails":"","orderNo":"vrf1522231529","status":"1"}'
+
+<------------------------------------------------------------------------------------------------------------->
+[2018-03-28 18:03:48] request message:
+array (
+  'service' => 'gbp_threeMessage_verification',
+  'reqNo' => 'KFT0987654321',
+  'version' => '1.0.0-IEST',
+  'charset' => 'utf-8',
+  'language' => 'zh_CN',
+  'callerIp' => '127.0.0.1',
+  'merchantId' => '2018032100095306',
+  'productNo' => 'GBPTM001',
+  'orderNo' => 'vrf1522232028',
+  'custBankNo' => '1051000',
+  'custName' => '樊鑫',
+  'custBankAccountNo' => '7227003641630247724',
+  'custAccountCreditOrDebit' => '2',
+  'custCertificationType' => '0',
+  'custID' => '51390219960714105X',
+)
+
+[2018-03-28 18:03:48] response message:
+'{"reqNo":"KFT0987654321","bankReturnTime":"","errorCode":"","failureDetails":"","orderNo":"vrf1522232028","status":"1"}'
+
+<------------------------------------------------------------------------------------------------------------->
+[2018-03-28 18:03:53] request message:
+array (
+  'service' => 'gbp_threeMessage_verification',
+  'reqNo' => 'KFT0987654321',
+  'version' => '1.0.0-IEST',
+  'charset' => 'utf-8',
+  'language' => 'zh_CN',
+  'callerIp' => '127.0.0.1',
+  'merchantId' => '2018032100095306',
+  'productNo' => 'GBPTM001',
+  'orderNo' => 'vrf1522232213',
+  'custBankNo' => '1051000',
+  'custName' => '樊鑫',
+  'custBankAccountNo' => '7227003641630247724',
+  'custAccountCreditOrDebit' => '2',
+  'custCertificationType' => '0',
+  'custID' => '51390219960714105X',
+)
+
+[2018-03-28 18:03:53] response message:
+'{"reqNo":"KFT0987654321","bankReturnTime":"","errorCode":"","failureDetails":"","orderNo":"vrf1522232213","status":"1"}'
+
+<------------------------------------------------------------------------------------------------------------->
+[2018-03-28 18:03:31] request message:
+array (
+  'service' => 'gbp_threeMessage_verification',
+  'reqNo' => 'KFT0987654321',
+  'version' => '1.0.0-IEST',
+  'charset' => 'utf-8',
+  'language' => 'zh_CN',
+  'callerIp' => '127.0.0.1',
+  'merchantId' => '2018032100095306',
+  'productNo' => 'GBPTM001',
+  'orderNo' => 'vrf1522232431',
+  'custBankNo' => '1051000',
+  'custName' => '樊鑫',
+  'custBankAccountNo' => '7227003641630247724',
+  'custAccountCreditOrDebit' => '2',
+  'custCertificationType' => '0',
+  'custID' => '51390219960714105X',
+)
+
+[2018-03-28 18:03:32] response message:
+'{"reqNo":"KFT0987654321","bankReturnTime":"","errorCode":"","failureDetails":"","orderNo":"vrf1522232431","status":"1"}'
+
+<------------------------------------------------------------------------------------------------------------->
+[2018-03-28 18:03:07] request message:
+array (
+  'service' => 'gbp_threeMessage_verification',
+  'reqNo' => 'KFT0987654321',
+  'version' => '1.0.0-IEST',
+  'charset' => 'utf-8',
+  'language' => 'zh_CN',
+  'callerIp' => '127.0.0.1',
+  'merchantId' => '2018032100095306',
+  'productNo' => 'GBPTM001',
+  'orderNo' => 'vrf1522232527',
+  'custBankNo' => '1051000',
+  'custName' => '樊鑫',
+  'custBankAccountNo' => '54321789',
+  'custAccountCreditOrDebit' => '2',
+  'custCertificationType' => '0',
+  'custID' => '51390219960714105X',
+)
+
+[2018-03-28 18:03:07] response message:
+'{"reqNo":"KFT0987654321","bankReturnTime":"","errorCode":"20101","failureDetails":"银行卡号不合法","orderNo":"vrf1522232527","status":"2"}'
+
+<------------------------------------------------------------------------------------------------------------->
+[2018-03-28 18:03:04] request message:
+array (
+  'service' => 'gbp_threeMessage_verification',
+  'reqNo' => 'KFT0987654321',
+  'version' => '1.0.0-IEST',
+  'charset' => 'utf-8',
+  'language' => 'zh_CN',
+  'callerIp' => '127.0.0.1',
+  'merchantId' => '2018032100095306',
+  'productNo' => 'GBPTM001',
+  'orderNo' => 'vrf1522232644',
+  'custBankNo' => '1051000',
+  'custName' => '樊鑫',
+  'custBankAccountNo' => '10236542123542136',
+  'custAccountCreditOrDebit' => '2',
+  'custCertificationType' => '0',
+  'custID' => '51390219960714105X',
+)
+
+[2018-03-28 18:03:05] response message:
+'{"reqNo":"KFT0987654321","bankReturnTime":"20180328182405","errorCode":"","failureDetails":"","orderNo":"vrf1522232644","status":"1"}'
+
+<------------------------------------------------------------------------------------------------------------->
+[2018-03-28 18:03:52] request message:
+array (
+  'service' => 'gbp_threeMessage_verification',
+  'reqNo' => 'KFT0987654321',
+  'version' => '1.0.0-IEST',
+  'charset' => 'utf-8',
+  'language' => 'zh_CN',
+  'callerIp' => '127.0.0.1',
+  'merchantId' => '2018032100095306',
+  'productNo' => 'GBPTM001',
+  'orderNo' => 'vrf1522232812',
+  'custBankNo' => '1051000',
+  'custName' => '樊鑫',
+  'custBankAccountNo' => '7227003641630247724',
+  'custAccountCreditOrDebit' => '2',
+  'custCertificationType' => '0',
+  'custID' => '51390219960714105X',
+)
+
+[2018-03-28 18:03:53] response message:
+'{"reqNo":"KFT0987654321","bankReturnTime":"","errorCode":"","failureDetails":"","orderNo":"vrf1522232812","status":"1"}'
+
+<------------------------------------------------------------------------------------------------------------->
+[2018-03-28 18:03:53] request message:
+array (
+  'service' => 'gbp_threeMessage_verification',
+  'reqNo' => 'KFT0987654321',
+  'version' => '1.0.0-IEST',
+  'charset' => 'utf-8',
+  'language' => 'zh_CN',
+  'callerIp' => '127.0.0.1',
+  'merchantId' => '2018032100095306',
+  'productNo' => 'GBPTM001',
+  'orderNo' => 'vrf1522232813',
+  'custBankNo' => '1051000',
+  'custName' => '樊鑫',
+  'custBankAccountNo' => '7227003641630247724',
+  'custAccountCreditOrDebit' => '2',
+  'custCertificationType' => '0',
+  'custID' => '51390219960714105X',
+)
+
+[2018-03-28 18:03:53] response message:
+'{"reqNo":"KFT0987654321","bankReturnTime":"","errorCode":"","failureDetails":"","orderNo":"vrf1522232813","status":"1"}'
+
+<------------------------------------------------------------------------------------------------------------->
+[2018-03-28 18:03:51] request message:
+array (
+  'service' => 'gbp_threeMessage_verification',
+  'reqNo' => 'KFT0987654321',
+  'version' => '1.0.0-IEST',
+  'charset' => 'utf-8',
+  'language' => 'zh_CN',
+  'callerIp' => '127.0.0.1',
+  'merchantId' => '2018032100095306',
+  'productNo' => 'GBPTM001',
+  'orderNo' => 'vrf1522232871',
+  'custBankNo' => '1051000',
+  'custName' => '樊鑫',
+  'custBankAccountNo' => '7227003641630247724',
+  'custAccountCreditOrDebit' => '2',
+  'custCertificationType' => '0',
+  'custID' => '51390219960714105X',
+)
+
+[2018-03-28 18:03:52] response message:
+'{"reqNo":"KFT0987654321","bankReturnTime":"","errorCode":"","failureDetails":"","orderNo":"vrf1522232871","status":"1"}'
+
+<------------------------------------------------------------------------------------------------------------->
+[2018-03-28 18:03:52] request message:
+array (
+  'service' => 'gbp_threeMessage_verification',
+  'reqNo' => 'KFT0987654321',
+  'version' => '1.0.0-IEST',
+  'charset' => 'utf-8',
+  'language' => 'zh_CN',
+  'callerIp' => '127.0.0.1',
+  'merchantId' => '2018032100095306',
+  'productNo' => 'GBPTM001',
+  'orderNo' => 'vrf1522232872',
+  'custBankNo' => '1051000',
+  'custName' => '樊鑫',
+  'custBankAccountNo' => '7227003641630247724',
+  'custAccountCreditOrDebit' => '2',
+  'custCertificationType' => '0',
+  'custID' => '51390219960714105X',
+)
+
+[2018-03-28 18:03:52] response message:
+'{"reqNo":"KFT0987654321","bankReturnTime":"","errorCode":"","failureDetails":"","orderNo":"vrf1522232872","status":"1"}'
+
+<------------------------------------------------------------------------------------------------------------->
+[2018-03-28 18:03:09] request message:
+array (
+  'service' => 'gbp_threeMessage_verification',
+  'reqNo' => 'KFT0987654321',
+  'version' => '1.0.0-IEST',
+  'charset' => 'utf-8',
+  'language' => 'zh_CN',
+  'callerIp' => '127.0.0.1',
+  'merchantId' => '2018032100095306',
+  'productNo' => 'GBPTM001',
+  'orderNo' => 'vrf1522232889',
+  'custBankNo' => '1051000',
+  'custName' => '樊鑫',
+  'custBankAccountNo' => '7227003641630247724',
+  'custAccountCreditOrDebit' => '2',
+  'custCertificationType' => '0',
+  'custID' => '51390219960714105X',
+)
+
+[2018-03-28 18:03:10] response message:
+'{"reqNo":"KFT0987654321","bankReturnTime":"","errorCode":"","failureDetails":"","orderNo":"vrf1522232889","status":"1"}'
+
+<------------------------------------------------------------------------------------------------------------->
+[2018-03-28 18:03:10] request message:
+array (
+  'service' => 'gbp_threeMessage_verification',
+  'reqNo' => 'KFT0987654321',
+  'version' => '1.0.0-IEST',
+  'charset' => 'utf-8',
+  'language' => 'zh_CN',
+  'callerIp' => '127.0.0.1',
+  'merchantId' => '2018032100095306',
+  'productNo' => 'GBPTM001',
+  'orderNo' => 'vrf1522232890',
+  'custBankNo' => '1051000',
+  'custName' => '樊鑫',
+  'custBankAccountNo' => '7227003641630247724',
+  'custAccountCreditOrDebit' => '2',
+  'custCertificationType' => '0',
+  'custID' => '51390219960714105X',
+)
+
+[2018-03-28 18:03:10] response message:
+'{"reqNo":"KFT0987654321","bankReturnTime":"","errorCode":"","failureDetails":"","orderNo":"vrf1522232890","status":"1"}'
+
+<------------------------------------------------------------------------------------------------------------->
+[2018-03-28 18:03:09] request message:
+array (
+  'service' => 'gbp_threeMessage_verification',
+  'reqNo' => 'KFT0987654321',
+  'version' => '1.0.0-IEST',
+  'charset' => 'utf-8',
+  'language' => 'zh_CN',
+  'callerIp' => '127.0.0.1',
+  'merchantId' => '2018032100095306',
+  'productNo' => 'GBPTM001',
+  'orderNo' => 'vrf1522232949',
+  'custBankNo' => '1051000',
+  'custName' => '樊鑫',
+  'custBankAccountNo' => '7227003641630247724',
+  'custAccountCreditOrDebit' => '2',
+  'custCertificationType' => '0',
+  'custID' => '51390219960714105X',
+)
+
+[2018-03-28 18:03:09] response message:
+'{"reqNo":"KFT0987654321","bankReturnTime":"","errorCode":"","failureDetails":"","orderNo":"vrf1522232949","status":"1"}'
+
+<------------------------------------------------------------------------------------------------------------->

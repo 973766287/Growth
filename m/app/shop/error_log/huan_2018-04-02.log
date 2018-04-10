@@ -1,0 +1,600 @@
+[2018-04-02 11:04:26] request message:
+array (
+  'service' => 'gbp_same_id_credit_card_pay',
+  'reqNo' => 'KFT0987654321',
+  'version' => '1.0.0-IEST',
+  'charset' => 'utf-8',
+  'language' => 'zh_CN',
+  'callerIp' => '127.0.0.1',
+  'merchantId' => '2018032100095306',
+  'productNo' => 'GBPTM002',
+  'orderNo' => 'pay1522640366',
+  'tradeName' => '酒店预订',
+  'tradeTime' => '20180402110426',
+  'amount' => 33200,
+  'currency' => 'CNY',
+  'custBankNo' => '1051000',
+  'custBankAccountNo' => '7226365812456244',
+  'custBindPhoneNo' => '18754544516',
+  'custName' => '樊鑫',
+  'custAccountCreditOrDebit' => '2',
+  'custCertificationType' => '0',
+  'custID' => '51390219960714105X',
+  'custCardValidDate' => '0323',
+  'custCardCvv2' => '251',
+)
+
+[2018-04-02 11:04:28] response message:
+'{"reqNo":"KFT0987654321","bankReturnTime":"20180402113928","channelId":"","errorCode":"","failureDetails":"","orderNo":"pay1522640366","status":"1","tradeNo":""}'
+
+<------------------------------------------------------------------------------------------------------------->
+[2018-04-02 13:04:57] request message:
+array (
+  'service' => 'gbp_same_id_credit_card_pay',
+  'reqNo' => 'KFT0987654321',
+  'version' => '1.0.0-IEST',
+  'charset' => 'utf-8',
+  'language' => 'zh_CN',
+  'callerIp' => '127.0.0.1',
+  'merchantId' => '2018032100095306',
+  'productNo' => 'GBPTM002',
+  'orderNo' => 'QZ20180402152264753772',
+  'tradeName' => '酒店预订',
+  'tradeTime' => '20180402130457',
+  'amount' => 56000,
+  'currency' => 'CNY',
+  'custBankNo' => '1051000',
+  'custBankAccountNo' => '7226365812456244',
+  'custBindPhoneNo' => '18754544516',
+  'custName' => '樊鑫',
+  'custAccountCreditOrDebit' => '2',
+  'custCertificationType' => '0',
+  'custID' => '51390219960714105X',
+  'custCardValidDate' => '0323',
+  'custCardCvv2' => '251',
+)
+
+[2018-04-02 13:04:00] response message:
+'{"reqNo":"KFT0987654321","bankReturnTime":"20180402133859","channelId":"","errorCode":"","failureDetails":"","orderNo":"QZ20180402152264753772","status":"1","tradeNo":""}'
+
+<------------------------------------------------------------------------------------------------------------->
+[2018-04-02 15:04:08] request message:
+array (
+  'service' => 'gbp_same_id_credit_card_pay',
+  'reqNo' => 'KFT0987654321',
+  'version' => '1.0.0-IEST',
+  'charset' => 'utf-8',
+  'language' => 'zh_CN',
+  'callerIp' => '127.0.0.1',
+  'merchantId' => '2018032100095306',
+  'productNo' => 'GBPTM002',
+  'orderNo' => 'QZ20180402152265360872',
+  'tradeName' => '酒店预订',
+  'tradeTime' => '20180402150408',
+  'amount' => 55200,
+  'currency' => 'CNY',
+  'custBankNo' => '1051000',
+  'custBankAccountNo' => '7226365812456244',
+  'custBindPhoneNo' => '18754544516',
+  'custName' => '樊鑫',
+  'custAccountCreditOrDebit' => '2',
+  'custCertificationType' => '0',
+  'custID' => '51390219960714105X',
+  'custCardValidDate' => '0323',
+  'custCardCvv2' => '251',
+)
+
+[2018-04-02 15:04:10] response message:
+'{"reqNo":"KFT0987654321","bankReturnTime":"20180402152010","channelId":"","errorCode":"","failureDetails":"","orderNo":"QZ20180402152265360872","status":"1","tradeNo":""}'
+
+<------------------------------------------------------------------------------------------------------------->
+[2018-04-02 15:04:55] request message:
+array (
+  'service' => 'gbp_same_id_credit_card_pay',
+  'reqNo' => 'KFT0987654321',
+  'version' => '1.0.0-IEST',
+  'charset' => 'utf-8',
+  'language' => 'zh_CN',
+  'callerIp' => '127.0.0.1',
+  'merchantId' => '2018032100095306',
+  'productNo' => 'GBPTM002',
+  'orderNo' => 'QZ20180402152265377572',
+  'tradeName' => '酒店预订',
+  'tradeTime' => '20180402150455',
+  'amount' => 60000,
+  'currency' => 'CNY',
+  'custBankNo' => '1051000',
+  'custBankAccountNo' => '7226365812456244',
+  'custBindPhoneNo' => '18754544516',
+  'custName' => '樊鑫',
+  'custAccountCreditOrDebit' => '2',
+  'custCertificationType' => '0',
+  'custID' => '51390219960714105X',
+  'custCardValidDate' => '0323',
+  'custCardCvv2' => '251',
+)
+
+[2018-04-02 15:04:56] response message:
+'{"reqNo":"KFT0987654321","bankReturnTime":"20180402152256","channelId":"","errorCode":"","failureDetails":"","orderNo":"QZ20180402152265377572","status":"1","tradeNo":""}'
+
+<------------------------------------------------------------------------------------------------------------->
+[2018-04-02 15:04:01] request message:
+array (
+  'service' => 'gbp_same_id_credit_card_pay',
+  'reqNo' => 'KFT0987654321',
+  'version' => '1.0.0-IEST',
+  'charset' => 'utf-8',
+  'language' => 'zh_CN',
+  'callerIp' => '127.0.0.1',
+  'merchantId' => '2018032100095306',
+  'productNo' => 'GBPTM002',
+  'orderNo' => 'QZ20180402152265462172',
+  'tradeName' => '酒店预订',
+  'tradeTime' => '20180402150401',
+  'amount' => 58400,
+  'currency' => 'CNY',
+  'custBankNo' => '1051000',
+  'custBankAccountNo' => '7226365812456244',
+  'custBindPhoneNo' => '18754544516',
+  'custName' => '樊鑫',
+  'custAccountCreditOrDebit' => '2',
+  'custCertificationType' => '0',
+  'custID' => '51390219960714105X',
+  'custCardValidDate' => '0323',
+  'custCardCvv2' => '251',
+)
+
+[2018-04-02 15:04:03] response message:
+'{"reqNo":"KFT0987654321","bankReturnTime":"20180402153703","channelId":"","errorCode":"","failureDetails":"","orderNo":"QZ20180402152265462172","status":"1","tradeNo":""}'
+
+<------------------------------------------------------------------------------------------------------------->
+[2018-04-02 15:04:03] request message:
+array (
+  'service' => 'gbp_same_id_credit_card_pay',
+  'reqNo' => 'KFT0987654321',
+  'version' => '1.0.0-IEST',
+  'charset' => 'utf-8',
+  'language' => 'zh_CN',
+  'callerIp' => '127.0.0.1',
+  'merchantId' => '2018032100095306',
+  'productNo' => 'GBPTM002',
+  'orderNo' => 'QZ20180402152265462372',
+  'tradeName' => '酒店预订',
+  'tradeTime' => '20180402150403',
+  'amount' => 56800,
+  'currency' => 'CNY',
+  'custBankNo' => '1051000',
+  'custBankAccountNo' => '7226365812456244',
+  'custBindPhoneNo' => '18754544516',
+  'custName' => '樊鑫',
+  'custAccountCreditOrDebit' => '2',
+  'custCertificationType' => '0',
+  'custID' => '51390219960714105X',
+  'custCardValidDate' => '0323',
+  'custCardCvv2' => '251',
+)
+
+[2018-04-02 15:04:03] response message:
+'{"reqNo":"KFT0987654321","bankReturnTime":"20180402153703","channelId":"","errorCode":"","failureDetails":"","orderNo":"QZ20180402152265462372","status":"1","tradeNo":""}'
+
+<------------------------------------------------------------------------------------------------------------->
+[2018-04-02 15:04:03] request message:
+array (
+  'service' => 'gbp_same_id_credit_card_pay',
+  'reqNo' => 'KFT0987654321',
+  'version' => '1.0.0-IEST',
+  'charset' => 'utf-8',
+  'language' => 'zh_CN',
+  'callerIp' => '127.0.0.1',
+  'merchantId' => '2018032100095306',
+  'productNo' => 'GBPTM002',
+  'orderNo' => 'QZ20180402152265462372',
+  'tradeName' => '酒店预订',
+  'tradeTime' => '20180402150403',
+  'amount' => 49600,
+  'currency' => 'CNY',
+  'custBankNo' => '1051000',
+  'custBankAccountNo' => '7226365812456244',
+  'custBindPhoneNo' => '18754544516',
+  'custName' => '樊鑫',
+  'custAccountCreditOrDebit' => '2',
+  'custCertificationType' => '0',
+  'custID' => '51390219960714105X',
+  'custCardValidDate' => '0323',
+  'custCardCvv2' => '251',
+)
+
+[2018-04-02 15:04:04] response message:
+'{"reqNo":"KFT0987654321","bankReturnTime":"","channelId":"","errorCode":"20101","failureDetails":"订单号重复","orderNo":"QZ20180402152265462372","status":"2","tradeNo":""}'
+
+<------------------------------------------------------------------------------------------------------------->
+[2018-04-02 15:04:58] request message:
+array (
+  'service' => 'gbp_same_id_credit_card_pay',
+  'reqNo' => 'KFT0987654321',
+  'version' => '1.0.0-IEST',
+  'charset' => 'utf-8',
+  'language' => 'zh_CN',
+  'callerIp' => '127.0.0.1',
+  'merchantId' => '2018032100095306',
+  'productNo' => 'GBPTM002',
+  'orderNo' => 'QZ20180402152265473872',
+  'tradeName' => '酒店预订',
+  'tradeTime' => '20180402150458',
+  'amount' => 49600,
+  'currency' => 'CNY',
+  'custBankNo' => '1051000',
+  'custBankAccountNo' => '7226365812456244',
+  'custBindPhoneNo' => '18754544516',
+  'custName' => '樊鑫',
+  'custAccountCreditOrDebit' => '2',
+  'custCertificationType' => '0',
+  'custID' => '51390219960714105X',
+  'custCardValidDate' => '0323',
+  'custCardCvv2' => '251',
+)
+
+[2018-04-02 15:04:58] response message:
+'{"reqNo":"KFT0987654321","bankReturnTime":"20180402153858","channelId":"","errorCode":"","failureDetails":"","orderNo":"QZ20180402152265473872","status":"1","tradeNo":""}'
+
+<------------------------------------------------------------------------------------------------------------->
+[2018-04-02 15:04:57] request message:
+array (
+  'service' => 'gbp_same_id_credit_card_pay',
+  'reqNo' => 'KFT0987654321',
+  'version' => '1.0.0-IEST',
+  'charset' => 'utf-8',
+  'language' => 'zh_CN',
+  'callerIp' => '127.0.0.1',
+  'merchantId' => '2018032100095306',
+  'productNo' => 'GBPTM002',
+  'orderNo' => 'QZ20180402152265485772',
+  'tradeName' => '酒店预订',
+  'tradeTime' => '20180402150457',
+  'amount' => 58400,
+  'currency' => 'CNY',
+  'custBankNo' => '1051000',
+  'custBankAccountNo' => '7226365812456244',
+  'custBindPhoneNo' => '18754544516',
+  'custName' => '樊鑫',
+  'custAccountCreditOrDebit' => '2',
+  'custCertificationType' => '0',
+  'custID' => '51390219960714105X',
+  'custCardValidDate' => '0323',
+  'custCardCvv2' => '251',
+)
+
+[2018-04-02 15:04:59] response message:
+'{"reqNo":"KFT0987654321","bankReturnTime":"20180402154059","channelId":"","errorCode":"","failureDetails":"","orderNo":"QZ20180402152265485772","status":"1","tradeNo":""}'
+
+<------------------------------------------------------------------------------------------------------------->
+[2018-04-02 15:04:59] request message:
+array (
+  'service' => 'gbp_same_id_credit_card_pay',
+  'reqNo' => 'KFT0987654321',
+  'version' => '1.0.0-IEST',
+  'charset' => 'utf-8',
+  'language' => 'zh_CN',
+  'callerIp' => '127.0.0.1',
+  'merchantId' => '2018032100095306',
+  'productNo' => 'GBPTM002',
+  'orderNo' => 'QZ20180402152265485972',
+  'tradeName' => '酒店预订',
+  'tradeTime' => '20180402150459',
+  'amount' => 54400,
+  'currency' => 'CNY',
+  'custBankNo' => '1051000',
+  'custBankAccountNo' => '7226365812456244',
+  'custBindPhoneNo' => '18754544516',
+  'custName' => '樊鑫',
+  'custAccountCreditOrDebit' => '2',
+  'custCertificationType' => '0',
+  'custID' => '51390219960714105X',
+  'custCardValidDate' => '0323',
+  'custCardCvv2' => '251',
+)
+
+[2018-04-02 15:04:59] response message:
+'{"reqNo":"KFT0987654321","bankReturnTime":"20180402154059","channelId":"","errorCode":"","failureDetails":"","orderNo":"QZ20180402152265485972","status":"1","tradeNo":""}'
+
+<------------------------------------------------------------------------------------------------------------->
+[2018-04-02 15:04:59] request message:
+array (
+  'service' => 'gbp_same_id_credit_card_pay',
+  'reqNo' => 'KFT0987654321',
+  'version' => '1.0.0-IEST',
+  'charset' => 'utf-8',
+  'language' => 'zh_CN',
+  'callerIp' => '127.0.0.1',
+  'merchantId' => '2018032100095306',
+  'productNo' => 'GBPTM002',
+  'orderNo' => 'QZ20180402152265485972',
+  'tradeName' => '酒店预订',
+  'tradeTime' => '20180402150459',
+  'amount' => 58400,
+  'currency' => 'CNY',
+  'custBankNo' => '1051000',
+  'custBankAccountNo' => '7226365812456244',
+  'custBindPhoneNo' => '18754544516',
+  'custName' => '樊鑫',
+  'custAccountCreditOrDebit' => '2',
+  'custCertificationType' => '0',
+  'custID' => '51390219960714105X',
+  'custCardValidDate' => '0323',
+  'custCardCvv2' => '251',
+)
+
+[2018-04-02 15:04:00] response message:
+'{"reqNo":"KFT0987654321","bankReturnTime":"","channelId":"","errorCode":"20101","failureDetails":"订单号重复","orderNo":"QZ20180402152265485972","status":"2","tradeNo":""}'
+
+<------------------------------------------------------------------------------------------------------------->
+[2018-04-02 15:04:00] request message:
+array (
+  'service' => 'gbp_same_id_credit_card_pay',
+  'reqNo' => 'KFT0987654321',
+  'version' => '1.0.0-IEST',
+  'charset' => 'utf-8',
+  'language' => 'zh_CN',
+  'callerIp' => '127.0.0.1',
+  'merchantId' => '2018032100095306',
+  'productNo' => 'GBPTM002',
+  'orderNo' => 'QZ20180402152265486072',
+  'tradeName' => '酒店预订',
+  'tradeTime' => '20180402150400',
+  'amount' => 56800,
+  'currency' => 'CNY',
+  'custBankNo' => '1051000',
+  'custBankAccountNo' => '7226365812456244',
+  'custBindPhoneNo' => '18754544516',
+  'custName' => '樊鑫',
+  'custAccountCreditOrDebit' => '2',
+  'custCertificationType' => '0',
+  'custID' => '51390219960714105X',
+  'custCardValidDate' => '0323',
+  'custCardCvv2' => '251',
+)
+
+[2018-04-02 15:04:01] response message:
+'{"reqNo":"KFT0987654321","bankReturnTime":"20180402154101","channelId":"","errorCode":"","failureDetails":"","orderNo":"QZ20180402152265486072","status":"1","tradeNo":""}'
+
+<------------------------------------------------------------------------------------------------------------->
+[2018-04-02 15:04:01] request message:
+array (
+  'service' => 'gbp_same_id_credit_card_pay',
+  'reqNo' => 'KFT0987654321',
+  'version' => '1.0.0-IEST',
+  'charset' => 'utf-8',
+  'language' => 'zh_CN',
+  'callerIp' => '127.0.0.1',
+  'merchantId' => '2018032100095306',
+  'productNo' => 'GBPTM002',
+  'orderNo' => 'QZ20180402152265486172',
+  'tradeName' => '酒店预订',
+  'tradeTime' => '20180402150401',
+  'amount' => 58400,
+  'currency' => 'CNY',
+  'custBankNo' => '1051000',
+  'custBankAccountNo' => '7226365812456244',
+  'custBindPhoneNo' => '18754544516',
+  'custName' => '樊鑫',
+  'custAccountCreditOrDebit' => '2',
+  'custCertificationType' => '0',
+  'custID' => '51390219960714105X',
+  'custCardValidDate' => '0323',
+  'custCardCvv2' => '251',
+)
+
+[2018-04-02 15:04:02] response message:
+'{"reqNo":"KFT0987654321","bankReturnTime":"20180402154102","channelId":"","errorCode":"","failureDetails":"","orderNo":"QZ20180402152265486172","status":"1","tradeNo":""}'
+
+<------------------------------------------------------------------------------------------------------------->
+[2018-04-02 15:04:02] request message:
+array (
+  'service' => 'gbp_same_id_credit_card_pay',
+  'reqNo' => 'KFT0987654321',
+  'version' => '1.0.0-IEST',
+  'charset' => 'utf-8',
+  'language' => 'zh_CN',
+  'callerIp' => '127.0.0.1',
+  'merchantId' => '2018032100095306',
+  'productNo' => 'GBPTM002',
+  'orderNo' => 'QZ20180402152265486272',
+  'tradeName' => '酒店预订',
+  'tradeTime' => '20180402150402',
+  'amount' => 49600,
+  'currency' => 'CNY',
+  'custBankNo' => '1051000',
+  'custBankAccountNo' => '7226365812456244',
+  'custBindPhoneNo' => '18754544516',
+  'custName' => '樊鑫',
+  'custAccountCreditOrDebit' => '2',
+  'custCertificationType' => '0',
+  'custID' => '51390219960714105X',
+  'custCardValidDate' => '0323',
+  'custCardCvv2' => '251',
+)
+
+[2018-04-02 15:04:04] response message:
+'{"reqNo":"KFT0987654321","bankReturnTime":"20180402154103","channelId":"","errorCode":"","failureDetails":"","orderNo":"QZ20180402152265486272","status":"1","tradeNo":""}'
+
+<------------------------------------------------------------------------------------------------------------->
+[2018-04-02 15:04:04] request message:
+array (
+  'service' => 'gbp_same_id_credit_card_pay',
+  'reqNo' => 'KFT0987654321',
+  'version' => '1.0.0-IEST',
+  'charset' => 'utf-8',
+  'language' => 'zh_CN',
+  'callerIp' => '127.0.0.1',
+  'merchantId' => '2018032100095306',
+  'productNo' => 'GBPTM002',
+  'orderNo' => 'QZ20180402152265486472',
+  'tradeName' => '酒店预订',
+  'tradeTime' => '20180402150404',
+  'amount' => 56800,
+  'currency' => 'CNY',
+  'custBankNo' => '1051000',
+  'custBankAccountNo' => '7226365812456244',
+  'custBindPhoneNo' => '18754544516',
+  'custName' => '樊鑫',
+  'custAccountCreditOrDebit' => '2',
+  'custCertificationType' => '0',
+  'custID' => '51390219960714105X',
+  'custCardValidDate' => '0323',
+  'custCardCvv2' => '251',
+)
+
+[2018-04-02 15:04:04] response message:
+'{"reqNo":"KFT0987654321","bankReturnTime":"20180402154104","channelId":"","errorCode":"","failureDetails":"","orderNo":"QZ20180402152265486472","status":"1","tradeNo":""}'
+
+<------------------------------------------------------------------------------------------------------------->
+[2018-04-02 15:04:45] request message:
+array (
+  'service' => 'gbp_same_id_credit_card_pay',
+  'reqNo' => 'KFT0987654321',
+  'version' => '1.0.0-IEST',
+  'charset' => 'utf-8',
+  'language' => 'zh_CN',
+  'callerIp' => '127.0.0.1',
+  'merchantId' => '2018032100095306',
+  'productNo' => 'GBPTM002',
+  'orderNo' => 'QZ20180402152265514572',
+  'tradeName' => '酒店预订',
+  'tradeTime' => '20180402150445',
+  'amount' => 57600,
+  'currency' => 'CNY',
+  'custBankNo' => '1051000',
+  'custBankAccountNo' => '7226365812456244',
+  'custBindPhoneNo' => '18754544516',
+  'custName' => '樊鑫',
+  'custAccountCreditOrDebit' => '2',
+  'custCertificationType' => '0',
+  'custID' => '51390219960714105X',
+  'custCardValidDate' => '0323',
+  'custCardCvv2' => '251',
+)
+
+[2018-04-02 15:04:47] response message:
+'{"reqNo":"KFT0987654321","bankReturnTime":"20180402154547","channelId":"","errorCode":"","failureDetails":"","orderNo":"QZ20180402152265514572","status":"1","tradeNo":""}'
+
+<------------------------------------------------------------------------------------------------------------->
+[2018-04-02 15:04:47] request message:
+array (
+  'service' => 'gbp_same_id_credit_card_pay',
+  'reqNo' => 'KFT0987654321',
+  'version' => '1.0.0-IEST',
+  'charset' => 'utf-8',
+  'language' => 'zh_CN',
+  'callerIp' => '127.0.0.1',
+  'merchantId' => '2018032100095306',
+  'productNo' => 'GBPTM002',
+  'orderNo' => 'QZ20180402152265514772',
+  'tradeName' => '酒店预订',
+  'tradeTime' => '20180402150447',
+  'amount' => 59200,
+  'currency' => 'CNY',
+  'custBankNo' => '1051000',
+  'custBankAccountNo' => '7226365812456244',
+  'custBindPhoneNo' => '18754544516',
+  'custName' => '樊鑫',
+  'custAccountCreditOrDebit' => '2',
+  'custCertificationType' => '0',
+  'custID' => '51390219960714105X',
+  'custCardValidDate' => '0323',
+  'custCardCvv2' => '251',
+)
+
+[2018-04-02 15:04:49] response message:
+'{"reqNo":"KFT0987654321","bankReturnTime":"20180402154549","channelId":"","errorCode":"","failureDetails":"","orderNo":"QZ20180402152265514772","status":"1","tradeNo":""}'
+
+<------------------------------------------------------------------------------------------------------------->
+[2018-04-02 15:04:49] request message:
+array (
+  'service' => 'gbp_same_id_credit_card_pay',
+  'reqNo' => 'KFT0987654321',
+  'version' => '1.0.0-IEST',
+  'charset' => 'utf-8',
+  'language' => 'zh_CN',
+  'callerIp' => '127.0.0.1',
+  'merchantId' => '2018032100095306',
+  'productNo' => 'GBPTM002',
+  'orderNo' => 'QZ20180402152265514972',
+  'tradeName' => '酒店预订',
+  'tradeTime' => '20180402150449',
+  'amount' => 60000,
+  'currency' => 'CNY',
+  'custBankNo' => '1051000',
+  'custBankAccountNo' => '7226365812456244',
+  'custBindPhoneNo' => '18754544516',
+  'custName' => '樊鑫',
+  'custAccountCreditOrDebit' => '2',
+  'custCertificationType' => '0',
+  'custID' => '51390219960714105X',
+  'custCardValidDate' => '0323',
+  'custCardCvv2' => '251',
+)
+
+[2018-04-02 15:04:51] response message:
+'{"reqNo":"KFT0987654321","bankReturnTime":"20180402154550","channelId":"","errorCode":"","failureDetails":"","orderNo":"QZ20180402152265514972","status":"1","tradeNo":""}'
+
+<------------------------------------------------------------------------------------------------------------->
+[2018-04-02 15:04:51] request message:
+array (
+  'service' => 'gbp_same_id_credit_card_pay',
+  'reqNo' => 'KFT0987654321',
+  'version' => '1.0.0-IEST',
+  'charset' => 'utf-8',
+  'language' => 'zh_CN',
+  'callerIp' => '127.0.0.1',
+  'merchantId' => '2018032100095306',
+  'productNo' => 'GBPTM002',
+  'orderNo' => 'QZ20180402152265515172',
+  'tradeName' => '酒店预订',
+  'tradeTime' => '20180402150451',
+  'amount' => 43200,
+  'currency' => 'CNY',
+  'custBankNo' => '1051000',
+  'custBankAccountNo' => '7226365812456244',
+  'custBindPhoneNo' => '18754544516',
+  'custName' => '樊鑫',
+  'custAccountCreditOrDebit' => '2',
+  'custCertificationType' => '0',
+  'custID' => '51390219960714105X',
+  'custCardValidDate' => '0323',
+  'custCardCvv2' => '251',
+)
+
+[2018-04-02 15:04:52] response message:
+'{"reqNo":"KFT0987654321","bankReturnTime":"20180402154552","channelId":"","errorCode":"","failureDetails":"","orderNo":"QZ20180402152265515172","status":"1","tradeNo":""}'
+
+<------------------------------------------------------------------------------------------------------------->
+[2018-04-02 15:04:27] request message:
+array (
+  'service' => 'gbp_same_id_credit_card_pay',
+  'reqNo' => 'KFT0987654321',
+  'version' => '1.0.0-IEST',
+  'charset' => 'utf-8',
+  'language' => 'zh_CN',
+  'callerIp' => '127.0.0.1',
+  'merchantId' => '2018032100095306',
+  'productNo' => 'GBPTM002',
+  'orderNo' => 'QZ20180402152265518772',
+  'tradeName' => '酒店预订',
+  'tradeTime' => '20180402150427',
+  'amount' => 58400,
+  'currency' => 'CNY',
+  'custBankNo' => '1051000',
+  'custBankAccountNo' => '7226365812456244',
+  'custBindPhoneNo' => '18754544516',
+  'custName' => '樊鑫',
+  'custAccountCreditOrDebit' => '2',
+  'custCertificationType' => '0',
+  'custID' => '51390219960714105X',
+  'custCardValidDate' => '0323',
+  'custCardCvv2' => '251',
+)
+
+[2018-04-02 15:04:27] response message:
+'{"reqNo":"KFT0987654321","bankReturnTime":"20180402154627","channelId":"","errorCode":"","failureDetails":"","orderNo":"QZ20180402152265518772","status":"1","tradeNo":""}'
+
+<------------------------------------------------------------------------------------------------------------->

@@ -1,0 +1,53 @@
+.mzmain{ width:100%; background-color:#FFF}
+.footer{ background-color:#fff}
+.mzbanner{ width:1020px; margin:0px auto; padding-top:5px}
+.mzbanner .cate{ width:200px; height:362px;  /*overflow:auto; overflow-x:hidden;*/ border:1px solid #ccc; float:left}
+.mzbanner .cate li{ height:55px; padding:2px; background:url(../theme/images/mz-nav.jpg) center top no-repeat; position:relative; text-align:center}
+.mzbanner .cate li a{ display:block; font-size:14px; line-height:55px; height:55px;_height:55px;}
+.mzbanner .cate li .subcatel{ display:none; position:absolute; left:199px; top:0px; width:512px; z-index:999; background-color:#FFFFFF; min-height:150px; border:1px solid #55311b; }
+.mzbanner .cate li dl{ width:312px; float:left;padding:10px;}
+.mzbanner .cate li .subcater{ width:170px; padding-left:10px; float:right; background-color:#FBF7F2; min-height:200px}
+.mzbanner .cate li .subcater p{ font-size:14px; color:#743400; font-weight:bold; text-align:left; line-height:26px}
+.mzbanner .cate li dl dd{ height:24px; width:104px;  float:left; line-height:24px; text-align:left}
+.mzbanner .cate li dl dd a{ padding-left:10px;color:#333; font-size:12px; line-height:28px; height:28px;}
+.mzbanner .cate li dl dt{ height:24px; line-height:24px; text-align:left; font-size:14px; font-weight:bold; color:#743400; border-bottom:1px dotted #55311b}
+.mzbanner .cate li:hover{background:url(../theme/images/mz-nav.jpg) center bottom no-repeat;}
+.mzbanner .cate li:hover a{ color:#FFF}
+.mzbanner .cate li:hover dd a{ color:#333}
+.mzbanner .cate li:hover .subcatel{ display:block;}
+.mzbanner .cate li dl dd a:hover{ color:#D90000}
+.mzbanner .cate .title{ width:200px; height:55px; background:url(../theme/images/mz-top.jpg) left top no-repeat}
+
+.mzitem .mzbannerR{ width:800px; float:right;}
+.mzitem{ padding-top:10px; padding-bottom:10px; margin:0px auto; width:1020px;}
+.mzitem .title{ height:40px; line-height:40px; background:url(../theme/images/geline.jpg) left bottom no-repeat; text-align:left; margin-bottom:5px}
+.mzitem .title span{ display:block; width:150px; height:40px; line-height:40px; float:left; color:#430340; font-size:14px; font-weight:bold}
+.mzitem .title div{ width:850px; height:40px; line-height:40px; float:right; text-align:right; overflow:hidden}
+.mzitem .title div a{ padding-right:8px; padding-left:4px; background:url(../theme/images/line.png) right center no-repeat}
+.mzitem .mzitemL dt{ height:42px; line-height:42px; text-align:center; background:url(../theme/images/mz-navbg.jpg) center center no-repeat; font-size:14px;}
+.mzitem .mzitemL{ width:210px; float:left; min-height:600px; border:1px solid #ddd}
+.mzitem .mzitemR{ width:800px; float:right}
+.mzitem .mzitemR .mzitemRL{ width:240px; height:600px; float:left; overflow:hidden}
+.mzitem .mzitemR .mzitemRC{ width:300px; float:left; padding-left:10px; padding-right:10px; overflow:hidden}
+.mzitem .mzitemR .mzitemRR{ width:240px; height:600px; float:right; overflow:hidden}
+.mzitem .mzitemR .mzitemRL li,.mzitem .mzitemR .mzitemRR li{ width:220px; height:280px; margin:10px; float:left; text-align:center}
+.mzitem .mzitemL dd{ height:40px; line-height:20px; border-bottom:1px dotted #ccc; padding-left:15px; padding-right:5px; background:url(../theme/images/san.png) 5px center no-repeat; overflow:hidden; padding-top:8px;}
+.mzitem .mzitemL dd b{ color:#e5004f; margin-left:10px; margin-right:10px;}
+.mzitem .mzitemL dd del{ color:#ccc}
+
+
+.mainbox{
+    overflow:hidden;
+    position:relative;
+}
+.flashbox{
+   overflow:hidden;
+    position:relative;
+}
+.imagebox{
+    text-align:right;position:relative;z-index:999;
+}
+
+.bitdiv{display:inline-block;width:18px;height:18px;margin:0 10px 10px 0px;cursor:pointer;float:right;}
+.defimg{background-image:url(../images/02.png)}
+.curimg{background-image:url(../images/01.png)}

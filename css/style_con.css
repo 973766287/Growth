@@ -1,0 +1,110 @@
+.groupmain{ width:100%; text-align:center; background:url(../theme/images/13367917301336791730.jpg) center top no-repeat #0e0405;background-attachment: fixed;}
+.groupmainbox{width:1020px; margin:0px auto; padding:10px; background-color:#FFF; min-height:500px}
+.groupmainbox li{ width:245px; height:280px; overflow:hidden; background:url(../theme/images/group_bg.jpg) center center no-repeat; margin:5px; float:left;}
+.groupmainbox li .g_tiel {
+line-height: 20px;
+ height:40px;
+font-weight: bold;
+}
+.groupmainbox li .g_tiel a{ color:#D90000}
+.g_pri {
+height: 20px;
+line-height: 20px;
+margin-top: 5px;
+margin-bottom: 5px;
+}
+.g_bom {
+height: 42px;
+background: url(../theme/images/group_bg_bot.jpg) no-repeat;
+line-height: 42px;
+}
+.g_bom em {
+color: #fdf100;
+font-size: 24px;
+font-family: Aldine721 Lt BT,Arial, Helvetica, sans-serif;
+padding-left: 10px;font-style: normal;
+}
+.groupmainbox li .imgbox{ width:245px; height:176px}
+.g_pri {
+height: 20px;
+line-height: 20px;
+margin-top: 5px;
+margin-bottom: 5px;
+}
+.g_pri em {
+text-decoration: line-through;
+}
+.g_pri strong {
+font-weight: normal;
+color: #af060d;
+}
+.p_show_text {
+width: 500px;
+float: left;
+overflow: hidden;
+}
+.num_group {
+width: 220px;
+background: #fff8e6;
+border: 1px solid #f7e2b3;
+height: 65px;
+margin-top: 10px;
+padding-left: 16px;
+padding-top: 30px;
+}
+.group_but {
+height: 76px;
+width: 594px;
+background: url(../theme/images/group_left.jpg) no-repeat;
+padding-top: 24px;
+padding-left: 28px;
+}
+.group_match {
+width: 236px;
+border: 1px solid #ddd;
+height: 55px;
+border-top: none;
+}
+.group_time {
+width: 236px;
+border: 1px solid #ddd;
+height: 49px;
+margin-top: 10px;
+padding-top: 5px;
+text-align: center;
+}
+
+.group_peopel {
+line-height: 24px;
+font-size: 14px;
+width: 236px;
+border: 1px solid #ddd;
+height: 65px;
+margin-top: 10px;
+background: url(../theme/images/group_bg_02.jpg) left center no-repeat;
+text-align: center;
+padding-top: 10px;
+}
+.group_but p {
+float: left;
+}
+.group_but .pice {
+color: #ffef01;
+font-family: Aldine721 Lt BT,Arial, Helvetica, sans-serif;
+font-size: 42px;
+display: inline;
+margin-left: 50px;
+margin-top: -10px;
+}
+.group_match table {
+text-align: center;
+}
+.group_match table td {
+line-height: 24px;
+}
+.group_time p {
+line-height: 20px;
+font-family: "微软雅黑";
+font-weight: bold;
+font-size: 14px;
+}

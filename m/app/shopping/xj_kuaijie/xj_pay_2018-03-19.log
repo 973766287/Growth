@@ -1,0 +1,52 @@
+[2018-03-19 09:02:41]API0:
+6225780602751474|卞荣强|371325198604214013|13371353533
+
+[2018-03-19 09:02:41]API1:
+agentOrderNo=QZ20180319152142135412&appId=10058951&customerInfo=xB7pIN5dnK1iNTw6MmCj1CfZAvVV7XPcwZx2vQ3/hPXgk4X0X4m8nOanmwEQtgDm6h6DWvTlY6YmZbTODvTTUg==&cvn2=771&mchId=19003375&nonceStr=or73ynLwfND7iyEIvYk3ttoUAg8Jt39g&notifyUrl=http://hk.2bku.cn/m/wxpay/notify_url_xj_api.php&key=092685c0a6e642b492b9f23a6f07509f
+
+[2018-03-19 09:02:41]API2:
+{"agentOrderNo":"QZ20180319152142135412","appId":"10058951","customerInfo":"xB7pIN5dnK1iNTw6MmCj1CfZAvVV7XPcwZx2vQ3\/hPXgk4X0X4m8nOanmwEQtgDm6h6DWvTlY6YmZbTODvTTUg==","cvn2":"771","totalFee":13300,"mchId":"19003375","nonceStr":"or73ynLwfND7iyEIvYk3ttoUAg8Jt39g","notifyUrl":"http:\/\/hk.2bku.cn\/m\/wxpay\/notify_url_xj_api.php","sign":"d23a2c50b90117ca8b1c2b7e0ea395c1"}
+
+[2018-03-19 09:02:42]API3:
+array (
+  'isSuccess' => true,
+  'message' => '交易请求成功！',
+  'code' => '00',
+  'data' => 
+  array (
+    'orderNo' => '10001000302366',
+    'agentOrderNo' => 'QZ20180319152142135412',
+    'totalFee' => 13300,
+    'mchId' => '19003375',
+    'tradeTime' => '2018-03-19 09:02:41',
+    'state' => '0',
+    'stateMsg' => '支付中',
+  ),
+)
+
+[2018-03-19 10:09:42]API0:
+6225780602751474|卞荣强|371325198604214013|13371353533
+
+[2018-03-19 10:09:42]API1:
+agentOrderNo=QZ20180319152142536012&appId=10058951&customerInfo=xB7pIN5dnK1iNTw6MmCj1CfZAvVV7XPcwZx2vQ3/hPXgk4X0X4m8nOanmwEQtgDm6h6DWvTlY6YmZbTODvTTUg==&cvn2=771&mchId=19003375&nonceStr=Ho2E0zZdqWbNpk62rcaaHemp3BColw5w&notifyUrl=http://hk.2bku.cn/m/wxpay/notify_url_xj_api.php&key=092685c0a6e642b492b9f23a6f07509f
+
+[2018-03-19 10:09:42]API2:
+{"agentOrderNo":"QZ20180319152142536012","appId":"10058951","customerInfo":"xB7pIN5dnK1iNTw6MmCj1CfZAvVV7XPcwZx2vQ3\/hPXgk4X0X4m8nOanmwEQtgDm6h6DWvTlY6YmZbTODvTTUg==","cvn2":"771","totalFee":12300,"mchId":"19003375","nonceStr":"Ho2E0zZdqWbNpk62rcaaHemp3BColw5w","notifyUrl":"http:\/\/hk.2bku.cn\/m\/wxpay\/notify_url_xj_api.php","sign":"b72c13006c3758d91c80db0abef09f40"}
+
+[2018-03-19 10:09:43]API3:
+array (
+  'isSuccess' => true,
+  'message' => '交易请求成功！',
+  'code' => '00',
+  'data' => 
+  array (
+    'orderNo' => '10001000302368',
+    'agentOrderNo' => 'QZ20180319152142536012',
+    'totalFee' => 12300,
+    'mchId' => '19003375',
+    'tradeTime' => '2018-03-19 10:09:42',
+    'state' => '0',
+    'stateMsg' => '支付中',
+  ),
+)
+

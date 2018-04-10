@@ -1,0 +1,40 @@
+[2018-03-14 11:07:43]updateAPI1:
+appId=10058951&cityCode=320100&customerInfo=XhLK/4SiceWTmtgFwnGEXqCA/Eukz2s68NggtrtSQ5i6Mvi7dKkUHMxh7fU64qBwkcH9NJ3Mvq7dMvTE9Zxgqw==&d0fee=200&fee0=4.5&mchId=19003675&nonceStr=vnKh2J6CsvgLfWe25yPSNXo3wAHgPVu2&provinceCode=320000&key=092685c0a6e642b492b9f23a6f07509f
+
+[2018-03-14 11:07:43]updateAPI2:
+{"appId":"10058951","mchId":"19003675","cityCode":"320100","customerInfo":"XhLK\/4SiceWTmtgFwnGEXqCA\/Eukz2s68NggtrtSQ5i6Mvi7dKkUHMxh7fU64qBwkcH9NJ3Mvq7dMvTE9Zxgqw==","d0fee":"200","fee0":"4.5","nonceStr":"vnKh2J6CsvgLfWe25yPSNXo3wAHgPVu2","provinceCode":"320000","sign":"6d16aa062d7d9d3dac2c98313e48d631"}
+
+[2018-03-14 11:07:43]updateAPI3:
+array (
+  'isSuccess' => true,
+  'message' => '修改成功',
+  'code' => '00',
+)
+
+[2018-03-14 14:41:52]API1:
+address=南京市&appId=10058951&cityCode=320100&customerInfo=FkP+u1O0k5onmm7wgiGPyK8P4N5lZvn5PArCOPO0tI8SCa2B9bvDTyy8Mh6KSrf72iRMMjmLk+kZBhKsvLeiNw==&d0fee=200&fee0=5.8&nonceStr=eOY2OdOFZeWPWxwdkY9HwWng7Q9evCWu&pointsType=0&provinceCode=320000&key=092685c0a6e642b492b9f23a6f07509f
+
+[2018-03-14 14:41:52]API2:
+{"address":"\u5357\u4eac\u5e02","appId":"10058951","cityCode":"320100","customerInfo":"FkP+u1O0k5onmm7wgiGPyK8P4N5lZvn5PArCOPO0tI8SCa2B9bvDTyy8Mh6KSrf72iRMMjmLk+kZBhKsvLeiNw==","d0fee":200,"fee0":5.8,"nonceStr":"eOY2OdOFZeWPWxwdkY9HwWng7Q9evCWu","pointsType":0,"provinceCode":"320000","sign":"767d70c6e2598e03fd9ba1cb2a8be55f"}
+
+[2018-03-14 14:41:52]API3:
+array (
+  'isSuccess' => true,
+  'message' => '进件成功！',
+  'code' => '00',
+  'data' => 19003971,
+)
+
+[2018-03-14 16:25:26]updateAPI1:
+appId=10058951&cityCode=320100&customerInfo=FkP+u1O0k5onmm7wgiGPyK8P4N5lZvn5PArCOPO0tI8SCa2B9bvDTyy8Mh6KSrf72iRMMjmLk+kZBhKsvLeiNw==&d0fee=200&fee0=4.5&mchId=19003971&nonceStr=VscVP4bdvCEJRYfDNExDVy13WmT0X1xm&provinceCode=320000&key=092685c0a6e642b492b9f23a6f07509f
+
+[2018-03-14 16:25:26]updateAPI2:
+{"appId":"10058951","mchId":"19003971","cityCode":"320100","customerInfo":"FkP+u1O0k5onmm7wgiGPyK8P4N5lZvn5PArCOPO0tI8SCa2B9bvDTyy8Mh6KSrf72iRMMjmLk+kZBhKsvLeiNw==","d0fee":"200","fee0":"4.5","nonceStr":"VscVP4bdvCEJRYfDNExDVy13WmT0X1xm","provinceCode":"320000","sign":"06a0cc39e546642d22d42ccfb5d3fd00"}
+
+[2018-03-14 16:25:27]updateAPI3:
+array (
+  'isSuccess' => true,
+  'message' => '修改成功',
+  'code' => '00',
+)
+

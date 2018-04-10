@@ -1,0 +1,13 @@
+.cxmain{ width:100%; /*background:url(../theme/images/cuxiaobg.jpg) center top no-repeat #170e09;background-attachment: fixed;*/ }
+.cxmainbox{ width:1020px; margin:0px auto; padding:5px; padding-bottom:0px;background-color:#FFF}
+.footer{ background-color:#222}
+.cxbanner{ height:380px; text-align:center; background:url(../theme/images/CgQCsVJo2iCAfwWCAAGuAG8cvLw73400.jpg) center top no-repeat}
+.cxnav{ height:13px; background:url(../theme/images/yunuo_22.png) repeat-x}
+
+.cxgoodslist li{ float:left; width:245px; height:337px; margin:5px; margin-bottom:15px; background:url(../theme/images/cuxiaobox.png) center center no-repeat; text-align:center}
+.cxgoodslist li .libox{ width:233px; height:320px; padding:7px; position:relative }
+.cxgoodslist li .libox .imgbox{ width:233px; height:255px; overflow:hidden}
+.cxgoodslist li:hover{background:url(../theme/images/cuxiaoboxh.png) center center no-repeat;}
+.cxgoodslist li .libox .timess{ height:30px; width:233px; background-color:#C3C0C0; position:absolute; top:6px; left:6px; z-index:99;filter:alpha(opacity=50);-moz-opacity:0.5;opacity:0.5;}
+.cxgoodslist li .libox .timessf{ height:30px; line-height:30px; width:233px; position:absolute; top:6px; left:6px; z-index:999; font-size:16px; text-align:center; color:#9a0000;text-shadow: 1px 0 0 #C4B697}
+.cxgoodslist li .libox .offprice{ position:absolute; right:9px; bottom:4px; background-color:#CC0033; color:#fff; font-size:14px; z-index:99; display:block; width:42px; height:26px; line-height:26px; font-style:italic}

@@ -1,0 +1,100 @@
+[2018-03-18 09:33:59]API2:
+{"orderNo":"10001000302336","smsCode":"612457"}
+
+[2018-03-18 09:34:00]API3:
+array (
+  'isSuccess' => true,
+  'message' => '交易请求成功！',
+  'code' => '00',
+  'data' => 
+  array (
+    'orderNo' => '10001000302336',
+    'agentOrderNo' => 'QZ2018031815213368053',
+    'totalFee' => 40000,
+    'mchId' => '19003678',
+    'tradeTime' => '2018-03-18 09:33:45',
+    'state' => '2',
+    'stateMsg' => '支付完成',
+  ),
+)
+
+[2018-03-18 13:38:10]API2:
+{"orderNo":"10001000302347","smsCode":"332266"}
+
+[2018-03-18 13:38:11]API3:
+array (
+  'isSuccess' => true,
+  'message' => '交易请求成功！',
+  'code' => '00',
+  'data' => 
+  array (
+    'orderNo' => '10001000302347',
+    'agentOrderNo' => 'QZ20180318152135141735',
+    'totalFee' => 800000,
+    'mchId' => '19003971',
+    'tradeTime' => '2018-03-18 13:37:44',
+    'state' => '2',
+    'stateMsg' => '支付完成',
+  ),
+)
+
+[2018-03-18 14:41:54]API2:
+{"orderNo":"10001000302349","smsCode":"628552"}
+
+[2018-03-18 14:41:55]API3:
+array (
+  'isSuccess' => true,
+  'message' => '交易请求成功！',
+  'code' => '00',
+  'data' => 
+  array (
+    'orderNo' => '10001000302349',
+    'agentOrderNo' => 'QZ20180318152135529312',
+    'totalFee' => 12500,
+    'mchId' => '19003375',
+    'tradeTime' => '2018-03-18 14:41:41',
+    'state' => '2',
+    'stateMsg' => '支付完成',
+  ),
+)
+
+[2018-03-18 14:53:16]API2:
+{"orderNo":"10001000302350","smsCode":"249494"}
+
+[2018-03-18 14:53:17]API3:
+array (
+  'isSuccess' => true,
+  'message' => '交易请求成功！',
+  'code' => '00',
+  'data' => 
+  array (
+    'orderNo' => '10001000302350',
+    'agentOrderNo' => 'QZ20180318152135596714',
+    'totalFee' => 10000,
+    'mchId' => '19003675',
+    'tradeTime' => '2018-03-18 14:53:01',
+    'state' => '2',
+    'stateMsg' => '支付完成',
+  ),
+)
+
+[2018-03-18 15:20:28]API2:
+{"orderNo":"10001000302352","smsCode":"733194"}
+
+[2018-03-18 15:20:29]API3:
+array (
+  'isSuccess' => true,
+  'message' => '交易请求成功！',
+  'code' => '00',
+  'data' => 
+  array (
+    'orderNo' => '10001000302352',
+    'agentOrderNo' => 'QZ2018031815213575843',
+    'totalFee' => 150000,
+    'mchId' => '19003678',
+    'tradeTime' => '2018-03-18 15:20:04',
+    'state' => '2',
+    'stateMsg' => '支付完成',
+  ),
+)
+

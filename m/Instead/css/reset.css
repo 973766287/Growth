@@ -1,0 +1,62 @@
+@charset "utf-8";
+/* CSS Document */
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, input, p, blockquote, th, td{ margin:0; padding:0; }
+body { color:#333; background:#fff;
+	font-family:"微软雅黑",Microsoft YaHei,Helvitica,Verdana,Tohoma,Arial,san-serif;
+	text-decoration: none;
+    font-size:62.5%;}
+fieldset, img { border:0; }
+img{display:block;}
+
+ol, ul ,li{ list-style:none; }
+h1, h2, h3, h4, h5, h6,b{ font-size:100%; font-weight:normal;}
+em{ font-style:normal; }/*em强调斜体*/
+input, button, select, textarea{ outline:none; }
+textarea { resize:none; } /*禁用了文本的拖拉，尤其在谷歌下*/
+p{ text-align:justify; text-justify:distribute;} /*为了使文本段落左右两边对齐*/
+a{ text-decoration:none; color:#333;}
+.fl{ float:left;}
+.fr{ float:right;}
+input,textarea,select{ border:none; background:none;font-family:"微软雅黑",Microsoft YaHei;}
+select{appearance:none;
+-moz-appearance:none; /* Firefox */
+-webkit-appearance:none; /* Safari 和 Chrome */}
+
+a{text-decoration:none; outline:none;blr:expression(this.onfocus=this.blur());}
+a:active{background-color:transparent}
+a:active,a:hover{outline:0 none}
+a:focus{outline:1px dotted}
+
+a.react{
+  display: block;
+  color: inherit;
+  height: 100%;
+}
+a:hover.react{background:rgba(255,255,255,.5);}
+a:hover.react img{ opacity:0.8;
+/* older safari/Chrome browsers */  
+    -webkit-opacity: 0.8;  
+    /* Netscape and Older than Firefox 0.9 */  
+    -moz-opacity: 0.8;  
+    /* Safari 1.x (pre WebKit!) 老式khtml内核的Safari浏览器*/  
+    -khtml-opacity: 0.8;  
+    /* IE9 + etc...modern browsers */  
+    opacity: .8;  
+    /* IE 4-9 */  
+    filter:alpha(opacity=80); 
+	 }
+
+a.react:active,a.react.react-active,label.react:active{background:rgba(255,255,255,.1)}
+
+input::-webkit-input-placeholder { /* WebKit browsers */
+    color:#cccccc;
+}
+input:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+    color:#cccccc;
+}
+input::-moz-placeholder { /* Mozilla Firefox 19+ */
+    color:#cccccc;
+}
+input:-ms-input-placeholder { /* Internet Explorer 10+ */
+    color:#cccccc;
+}
