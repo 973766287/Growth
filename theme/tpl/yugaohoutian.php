@@ -1,1 +1,0 @@
-<?php $this->element('yugao',array('rts'=>$rt['yugao']));?>

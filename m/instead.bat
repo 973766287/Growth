@@ -1,1 +1,0 @@
-"D:\ruanjiananzhuang\BtSoft\WebSoft\php\5.4\php.exe" -q "D:\wwwroot\www.chm1688.com\test.php"

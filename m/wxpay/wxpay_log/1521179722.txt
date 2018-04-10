@@ -1,2 +1,0 @@
-insert into `gz_user_level_log` (user_id,user_rank,create_time,type,remark) values ('4', 11,UNIX_TIMESTAMP(),2,'直接充值进行会员升级')
-SELECT parent_uid FROM `gz_user_tuijian` WHERE uid = '4' LIMIT 1

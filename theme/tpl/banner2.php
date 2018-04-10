@@ -1,1 +1,0 @@
-<?php $this->element('bagsbanner2',array('cid'=>$cid));?>
