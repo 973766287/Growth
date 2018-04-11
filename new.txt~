@@ -1,0 +1,7 @@
+1.    test success!
+2.    php 从5.4开始有-S监听命令
+3.    git rm 文件名 --删除文件
+
+4.    第一次上传git文件时先pull后push出现拒绝加载无关文件解决办法：
+      git pull origin master ----allow-unrelated-histories 
+
