@@ -4,4 +4,5 @@
 
 4.    第一次上传git文件时先pull后push出现拒绝加载无关文件解决办法：
       git pull origin master ----allow-unrelated-histories 
-
+20184月11日:
+      上传C编程语言pdf
