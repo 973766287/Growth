@@ -1,0 +1,16 @@
+                        记录学习python的过程中的心得
+2018年5月7日
+ 1）python中常用复合数据类型，类似php中的数组 列表 用[] 表示
+list = ['元素1','元素2','元素3']  可以用下标访问其中特定的某个元素
+如：list[0] 代表列表中的 元素1
+    list[0:1] 代表列表中的 元素1和元素2 下标也是从0开始的
+    list 允许修改已存在序列范围内的变量 如list[3] = 123; 就超出下标范围 会报错
+2）元组
+   就是只读列表，不能修改内部元素 yuanzu = ('a','b','c');
+3) 字典
+   用{}表示，与list不同它是通过key和value建立联系的无序集合
+   dect = {'one':1,'two':2,'three':3}
+   dect['one'] 指向1 dect.keys() 和dect.values() 分别代表dect的所有key和value
+   打印出来的keys和values是以list的形式存在
+   与list 不同的是dect可以直接通过key添加新元素 如 dect['four'] = 4;这样dect将添加key为four value为4的元素;
+
