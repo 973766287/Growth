@@ -1,0 +1,2 @@
+php array_map(fucntion($a){ do something},array())
+    对数组中的每一个元素进行自定义function操作，极大的提高了程序员对数组的处理能力，很灵活，很灵性！
