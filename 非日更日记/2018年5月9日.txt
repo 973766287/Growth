@@ -1,0 +1,2 @@
+分页常用sql  SELECT * FROM tablename limit m,n
+向tablename表里查询从m+1 条开始（包括m+1条）取n条数据
