@@ -1,0 +1,9 @@
+                            php 生成多为json数组
+        $royalty_info[] = array(
+            'payee_identity_type' => '1',
+            'payee_member_id' => '300001723946',
+            'amount' => '1.00',
+        );
+	$rel = json_encode($royalty_info);
+	在空数组里放数组即可
+      
