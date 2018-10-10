@@ -1,0 +1,10 @@
+mysql 相关:
+  mysql 8.0 默认字符集为ut8mb4，php连接的时候有可能会报错，这时需要修改mysql默认字符集为utf8。两种方法：
+1，直接在命令行里面修改 show variables like '%character%';先查出当前的默认字符集设置，然后用 set character_set_XXX = “gbk”;（XXX是写以上的变量名）修改对应变量。
+2. 修改my.ini文件 linux下是my.cnf文件。
+   分别在[client] [mysql] 写入 default-character-set = utf8， [mysqld] 下写入
+   init-connect = 'SET NAMES utf8'
+   character-set-server = utf8
+php 相关：
+namespace 和 use 的作用
+1.namespace 就是给当前文件 类 起小名 use 是简化这个小名，详细地址：https://www.cnblogs.com/drunkhero/p/namespace.html 大佬说的很清楚
