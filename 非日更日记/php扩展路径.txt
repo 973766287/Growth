@@ -1,0 +1,1 @@
+  新下的php开curl时返回找不到相关模块，看了一下发现路径不对，去php.ini里搜索extension_dir 去掉;改为PHP的ext路径 我的是 D:\soft\wamp\PHP\ext。
