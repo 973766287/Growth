@@ -1,0 +1,24 @@
+mysql查询用explain可以查看性能，当查询效率慢的时候添加index索引可以加快查询
+
+
+-- CREATE INDEX drawmoney_plan_id ON gz_user_drawmoney_instead(plan_id);
+-- ALTER TABLE `gz_user_drawmoney_instead` DROP INDEX  drawmoney_plan_id;
+-- SHOW INDEX FROM gz_user_drawmoney_instead;
+EXPLAIN
+SELECT 
+	count(tb1.id) 
+FROM 
+	`gz_user_card_instead_plans` AS tb1 
+LEFT JOIN 
+	`gz_user_bank` AS tb2 ON tb2.uid=tb1.user_id 
+LEFT JOIN 
+	`gz_user_card_instead` AS tb3 ON tb3.id=tb1.card_id 
+LEFT JOIN 
+	`gz_bank` AS tb4 ON tb4.id=tb3.bank 
+LEFT JOIN 
+	`gz_goods_order_info_instead` AS tb5 ON tb5.plan_id=tb1.id 
+LEFT JOIN 
+	`gz_user_drawmoney_instead` AS tb6 ON tb6.plan_id=tb1.id 
+where 
+	(tb1.stop = 0) or (tb1.status != 1 and tb1.stop=1);
+
